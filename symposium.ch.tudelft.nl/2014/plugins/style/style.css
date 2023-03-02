@@ -1,0 +1,243 @@
+.right{
+	float:right !important;
+}
+
+.header{
+	padding: 25px 50px 25px 50px;
+	background-color: #254576; 
+	
+}
+
+.lecture-row{
+}
+
+.header-row{
+	background-color : #254576;
+	color: white;
+}
+
+.other-row{
+	background-color : #198EA8;
+	color: white;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+    /* Safari only override */
+    ::i-block-chrome, h2 {
+		margin-top:25px;
+	}
+}
+
+table,tr,td{
+	cursor:default !important;
+}
+
+.header img{
+	vertical-align:middle;
+}
+
+.partners{
+	float:right !important;
+}
+
+.theater{
+	display:block;
+    margin:auto;
+	margin-top:15px;
+	margin-bottom:-30px;
+}
+
+.toggle-text{
+	float: left;
+}
+
+.toggle{
+	cursor:pointer !important;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border-bottom-style:solid;
+	height:26px;
+	border-width:2px;
+}
+
+.slide{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border-bottom-style:solid;
+	height:26px;
+	border-width:2px;
+}
+
+.slide-text{
+	float:left;
+	cursor:pointer !important;
+}
+
+.ink-button{
+	margin-left: 0px !important;
+}
+
+.toggle-icon{
+	float:right;
+	margin-left:10px;
+	padding-top:3px;
+}
+
+
+
+.mail-anchor:hover{
+	color:white !important;
+	text-decoration:underline !important;
+}
+
+.header-text{
+	vertical-align:middle;
+	padding-top:10px; 
+	padding-bottom:25px;
+	margin:0px;
+	color:white;
+}
+
+.header-text p {
+	color:white;
+	margin:0px;
+	padding:0px;
+}
+
+.font25{
+	font-size:25px;
+}
+
+.font12{
+	font-size:12px;
+}
+
+.font16{
+	font-size:16px;
+}
+
+
+html{
+	background-color: #254576; 
+}
+body{
+	background-color: white;
+	margin-left:auto;
+	margin-right:auto;
+	width: 800px;
+}
+
+.no-indent{
+	margin:0px;
+	padding:0px;
+}
+
+.page-navigation{
+	margin: 0px 50px 0px 50px;
+	margin-top:-35px;
+	-webkit-box-shadow: 0px 1px 15px 0 rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 1px 15px 0 rgba(0,0,0,0.3);
+	box-shadow: 0px 1px 15px 0 rgba(0,0,0,0.3);
+}
+
+.content{
+	float: left;
+	padding-left:50px;
+	padding-right:50px;
+}
+
+.partners{
+	float:right;
+	padding-right:50px;
+}
+
+.partner-list{
+	text-align:center;
+}
+
+.partner-list img{
+	margin-bottom: 30px;
+}
+
+.center-text{
+	text-align:center;
+}
+
+.row-hover:hover{
+	background-color: #254576 !important;
+}
+
+.footer{
+	color:white;
+	text-align:center;
+	background-color: #254576; 
+	margin-top:25px;
+	padding-bottom:5px;
+}
+
+.mail-anchor{
+	color:white;
+}
+
+#map{
+	width:100%px;
+	height:500px;
+}
+
+#map img { 
+	max-width: none !important;
+	max-height: none !important;
+}
+
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+.choice{
+	margin-right:30px;
+}
+
+.ink-form .control-group input[type="radio"]+label, .ink-form .control-group input[type="checkbox"]+label {
+	line-height:normal;
+	margin-top: -3px;
+}
+
+.ink-form .control-group input[type="radio"], .ink-form .control-group input[type="checkbox"] {
+	line-height:auto;
+	margin-top:0px;
+	line-height:normal;
+}
+
+.ink-form .control-group input[type="radio"]+label, .ink-form .control-group input[type="checkbox"]+label {
+	margin-top:-3px;
+}
+
+#interested{
+	margin-top:-11px;
+}	
+
+.latest{
+	overflow:auto;
+	height:400px;
+}
+
+.lecturer{
+	margin-bottom: 40px;
+	overflow: hidden;
+}
+
+.lecturer img{
+	padding-left:10px;
+}

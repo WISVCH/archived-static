@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://lustrum.ch/static/css/main.8cf95529.chunk.css",
+    "main.js": "https://lustrum.ch/static/js/main.81fbe0ed.chunk.js",
+    "main.js.map": "https://lustrum.ch/static/js/main.81fbe0ed.chunk.js.map",
+    "runtime-main.js": "https://lustrum.ch/static/js/runtime-main.17a09492.js",
+    "runtime-main.js.map": "https://lustrum.ch/static/js/runtime-main.17a09492.js.map",
+    "static/js/2.ce98e83e.chunk.js": "https://lustrum.ch/static/js/2.ce98e83e.chunk.js",
+    "static/js/2.ce98e83e.chunk.js.map": "https://lustrum.ch/static/js/2.ce98e83e.chunk.js.map",
+    "index.html": "https://lustrum.ch/index.html",
+    "static/css/main.8cf95529.chunk.css.map": "https://lustrum.ch/static/css/main.8cf95529.chunk.css.map",
+    "static/js/2.ce98e83e.chunk.js.LICENSE.txt": "https://lustrum.ch/static/js/2.ce98e83e.chunk.js.LICENSE.txt",
+    "static/media/doris.9719eb28.png": "https://lustrum.ch/static/media/doris.9719eb28.png",
+    "static/media/guus.ef5a8f63.png": "https://lustrum.ch/static/media/guus.ef5a8f63.png",
+    "static/media/janne.e50c2d96.png": "https://lustrum.ch/static/media/janne.e50c2d96.png",
+    "static/media/joep.c535d189.png": "https://lustrum.ch/static/media/joep.c535d189.png",
+    "static/media/jules.465afa72.png": "https://lustrum.ch/static/media/jules.465afa72.png",
+    "static/media/logo-connect-subtitle.529b0545.png": "https://lustrum.ch/static/media/logo-connect-subtitle.529b0545.png",
+    "static/media/menu.2d48ee79.svg": "https://lustrum.ch/static/media/menu.2d48ee79.svg",
+    "static/media/netcompany.cbeec209.png": "https://lustrum.ch/static/media/netcompany.cbeec209.png",
+    "static/media/sebastien.980ca57a.png": "https://lustrum.ch/static/media/sebastien.980ca57a.png",
+    "static/media/wouter.81bd1b2b.png": "https://lustrum.ch/static/media/wouter.81bd1b2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17a09492.js",
+    "static/js/2.ce98e83e.chunk.js",
+    "static/css/main.8cf95529.chunk.css",
+    "static/js/main.81fbe0ed.chunk.js"
+  ]
+}

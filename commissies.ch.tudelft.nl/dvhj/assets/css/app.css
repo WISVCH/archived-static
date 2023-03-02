@@ -1,0 +1,219 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 60px 0;
+  text-align: center;
+}
+.jumbotron h1 {
+  font-size: 72px;
+  line-height: 1;
+}
+.jumbotron .btn, .jumbotron .token {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+.jumbotron .token {
+	margin-bottom: 0;
+	width: auto;
+}
+
+.marketing {
+  margin: 60px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+ul.nav li img.language-icon {
+	display: inline-block;
+	padding-top: 2px;
+	vertical-align: top;
+}
+
+/* Custom DVHJ */
+.row-fluid.courses {
+	background-image: url(../img/arrows.png);
+	background-position: 312px 20px;
+	background-repeat: no-repeat;
+}
+
+#form-votes { margin-top: 110px; }
+#form-votes div.affixed { margin-top: -110px; background: white; }
+#form-votes div.affixed.affix { 
+	top: 0px; min-width: 700px; margin-top: 0; 
+	border-bottom: 1px solid #ccc; z-index:1000;
+}
+@media (max-width: 767px) {
+	#form-votes div.affixed.affix { width: 100%; min-width: auto; left: 0; padding-bottom: 10px; }
+	#form-votes div.affixed.affix > * { margin-left: 10px; margin-right: 10px; width: auto; }
+	.visible-tutors {
+		margin-top: 20px;
+	}
+	.visible-phone.alert { margin-top: 20px; }
+	.tutor textarea { width: 150px; }
+}
+@media (max-width: 480px) {
+	.tutor.media .pull-right { margin-left: 0; }
+	.tutur.media a.pull-right.motivation { width: auto; left: 105px; position: absolute !important; right: 20px; }
+	.tutor.media .pull-left { display: inline-block; }
+	.tutor.media .media-body.visible-phone { display: inline-block !important; vertical-align: top; }
+	.tutor.media textarea { display: block; width: 100%; height: 74px; box-sizing: border-box; }
+}
+
+.progress .bar { height: 30px; }
+
+.tutors .if-empty {
+	display: none;
+	text-align: center;
+	margin: 30px;
+}
+
+input.placeholdersjs { color: #ccc; }
+
+.visible-tutors .tutor { display: none; }
+.tutor { min-height: 84px; }
+.tutor a.disable {
+	position: absolute;
+	top: 44px;
+	left: 46px;
+	background: rgba(0,0,0,.7);
+	width: 14px;
+	padding: 0 2px;
+	display: none;
+	cursor: pointer;
+}
+.tutor:hover a.disable { display: block; }
+.tutor.disabled input.grade, .tutor.disabled textarea { display: none; }
+
+.tutor .gravatar { width: 64px; text-align: center; position: relative; }
+.tutor .gravatar img { margin: auto; }
+.tutor input.grade {
+	width: 64px;
+	height: 64px;
+	font-size: 32px;
+	line-height: 64px;
+}
+.tutor textarea {
+	height: 64px;
+}
+
+.tutor .media-body > div { line-height: 17px; }
+.course {
+	background: red;
+	border-radius: 10px;
+	padding: 2px 8px;
+	display: inline-block;
+	margin: 1px;
+	box-shadow: inset 0 0 8px rgba(0,0,0,.5);
+	background: #0088cc;
+	color: white;
+}
+.tutor .badge { margin: 1px 0; }
+
+body .span3 .btn-vote { width: 100%; }
+
+table#courses-visible {
+	width: 100%;
+	max-height: 144px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	display: block;
+	margin: 5px 0 0;
+}
+table#courses-visible tr { width: 100%; }
+
+table#courses-visible td {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+table#courses-visible th, table#courses-visible td { max-width: 14px; width: 14px }
+table#courses-visible th + th, table#courses-visible td + td { max-width: 76px;width: 76px }
+table#courses-visible th + th + th, table#courses-visible td + td + td { max-width: 218px;width: 218px }
+table#courses-visible tfoot { display: none; }
+table#courses-visible tfoot td { text-align: center; }
+
+/* Scores page */
+.Result-scores .row-fluid { margin-bottom: 20px; }
+.Result-scores hr + .row-fluid { margin-bottom: 30px; }
+
+.Result-scores .tutor { position: relative; }
+.Result-scores .tutor .name {
+	background: #333;
+	color: white;
+	padding: 5px 50px 5px 8px;
+	display: block;
+	position: relative;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.Result-scores .tutor .score { 
+	position: absolute; 
+	bottom: -20px; 
+	right: -25px; 
+	font-size: 1.8em;
+	height: 101px; 
+	width: 110px; 
+	line-height: 88px; 
+	text-align: center;
+	background-image: url(../img/badges.png);
+	background-position: -470px -25px;
+	color: white;
+	text-shadow: 0 0 5px #000;
+	-webkit-transition: bottom .3s ease;
+}
+.Result-scores .tutor .score:hover { bottom: -18px; }
+.Result-scores .tutor.score-1 .score {
+	background-position: 0px -6px;
+	height: 138px;
+	width: 150px;
+	line-height: 120px;
+	font-size: 2.5em;
+}
+.Result-scores .tutor.score-2 .score {
+	background-position: -160px -15px;
+	height: 120px;
+	width: 130px;
+	line-height: 105px;
+	font-size: 2.2em;
+	color: black;
+	text-shadow: none;
+}
+.Result-scores .tutor.score-3 .score {
+	background-position: -315px -20px;
+	height: 110px; 
+	width: 120px;
+	line-height: 100px;
+	font-size: 2em;
+}
+
+.Result-scores .half-TW .tutor .score { right: auto; left: -25px; }
+.Result-scores .half-TW h2 { text-align: right; }
+
+.Result-scores .tutor .name .badge {
+	float: right;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+.badge-gold { background-color: #b09205; }
+
+@media (max-width: 1200px) {
+	.halfs-needed-1200 .half {
+		width: 100% !important; margin-left: 0;
+	}
+}

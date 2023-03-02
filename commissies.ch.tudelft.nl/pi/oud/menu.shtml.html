@@ -1,0 +1,46 @@
+<html>
+
+<script language="Javascript">
+function load()
+{
+menuposter=new Image;
+menuposter.src='menuposter_aan.gif';
+foto=new Image;
+foto.src='fotos_aan.gif';
+commissie=new Image;
+commissie.src='commissie_aan.gif';
+}
+</script>
+
+<!--#exec cgi='teller_add.cgi' -->
+
+<body background='bg.gif' onload="load()">
+   <table border=0 height=100% valign=center cellspacing=0 cellpadding=0>
+   <tr><td>
+   <table border=0 valign=center cellspacing=0 cellpadding=0>
+      <tr>
+         <td height=75>
+         <a href='fotoboek.html' onmouseover="fotos.src='fotos_aan.gif'"
+                              onmouseout="fotos.src='fotos.gif'" target=main>
+         <img src='fotos.gif' name=fotos alt="Foto's" border=0></a>
+         </td>
+      </tr>
+      <tr>
+         <td height=75>
+         <a href='main.html' onmouseover="poster.src='menuposter_aan.gif'"
+                               onmouseout="poster.src='menuposter.gif'" target=main>
+         <img src='menuposter.gif' name=poster alt="Posters" border=0></a>
+         </td>
+      </tr>
+      <tr>
+         <td height=75>
+         <a href='commissie.html' onmouseover="funcy.src='commissie_aan.gif'"
+                                  onmouseout="funcy.src='commissie.gif'" target=main>
+         <img src='commissie.gif' name=funcy alt="Funcy" border=0></a>
+         </td>
+      </tr>
+   </table>
+   </td></tr>
+   </table>
+</body>
+</html>

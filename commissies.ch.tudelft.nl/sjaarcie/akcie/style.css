@@ -1,0 +1,13 @@
+html { 
+	background: url(biggen.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: Arial, sans-serif;
+}
+
+#content { top: 300px; color: #fff; position: absolute; width: 100%; }
+#content *, #content a { text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+
+h1 { color: pink; font-size: 100pt; }

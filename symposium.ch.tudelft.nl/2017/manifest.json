@@ -1,0 +1,29 @@
+{
+  "name": "Cyber Security Symposium",
+  "short_name": "Symposium",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+      "src": "images/manifest/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },{
+      "src": "images/manifest/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },{
+      "src": "images/manifest/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },{
+      "src": "images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },{
+      "src": "images/manifest/icon-200x200.png",
+      "sizes": "200x200",
+      "type": "image/png"
+  }],
+  "background_color": "#eeeeee",
+  "theme_color": "#231657"
+}
