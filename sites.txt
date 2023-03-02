@@ -1,10 +1,6 @@
 https://symposium.ch.tudelft.nl/2002/
 https://symposium.ch.tudelft.nl/2010/
 https://symposium.ch.tudelft.nl/2014/
-https://symposium.ch.tudelft.nl/2017
-https://symposium.ch.tudelft.nl/2018/
-https://symposium.ch.tudelft.nl/2020/
-https://symposium.ch.tudelft.nl/2022/
 https://eerstejaarsweekend.nl
 https://coh.ewi.tudelft.nl/nostalgia/
 https://commissies.ch.tudelft.nl/filmcrew/
@@ -18,3 +14,4 @@ https://commissies.ch.tudelft.nl/wifi/
 https://commissies.ch.tudelft.nl/wifi/2016_wispo/
 https://commissies.ch.tudelft.nl/wifi/oud/
 https://commissies.ch.tudelft.nl/wocky
+https://lustrum.ch
