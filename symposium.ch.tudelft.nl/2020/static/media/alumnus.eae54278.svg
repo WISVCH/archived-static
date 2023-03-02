@@ -1,0 +1,13 @@
+
+<svg width="120px" height="90px" viewBox="0 0 120 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustration/alumnus" transform="translate(2.000000, -11.000000)" fill-rule="nonzero">
+            <path d="M23.0160787,30.8288149 C4.50841509,30.8428259 -5.75701956,49.5334077 3.48539927,65.0064793 C12.9166506,80.7957976 23.2308497,85.7726805 43.8550978,99 C64.4855711,85.7726805 74.7997702,80.7957976 84.2341342,65.0064793 C98.0884245,41.8183887 69.4937834,17.9117374 49.8977389,36.8555168 L43.8644357,42.6880672 L37.8217945,36.8555168 C33.8791372,33.0505483 28.5918262,30.8248118 23.0160787,30.8288149 Z" id="Shape" stroke="#C2352B" stroke-width="4" fill="#F44336" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M42.4117647,40 L42.4117647,47.4216831 C42.4117647,62.859439 90.9915966,62.859439 90.9915966,47.4216831 L90.9915966,40 M105.105484,34 L110.102103,47.1183727 C111.277984,50.2050487 112.980742,52.242058 115.798319,54.7719186 L109.231533,57 C109.697349,53.3565087 109.636287,50.7626841 108.460407,47.6760081 L103.394958,34.5893745" id="Shape" fill="#FFFFFF" transform="translate(79.105042, 46.500000) rotate(20.061984) translate(-79.105042, -46.500000) "></path>
+            <polygon id="Shape" stroke="#C2352B" stroke-width="4" fill="#F44336" stroke-linecap="round" stroke-linejoin="round" transform="translate(72.386555, 29.500000) rotate(20.061984) translate(-72.386555, -29.500000) " points="72.3865546 16 25.8739496 29.5 72.3865546 43 118.89916 29.5"></polygon>
+        </g>
+    </g>
+</svg>

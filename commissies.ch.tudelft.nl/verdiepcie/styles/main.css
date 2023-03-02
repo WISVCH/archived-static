@@ -1,0 +1,128 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-image: url("../images/trappenhuis.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+    height: 80px;
+    border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+
+}
+
+#logo {
+    margin-top: -20px;
+}
+
+#main {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#title {
+    color: #0898e0;
+}
+
+.foto {
+    width: 900px;
+    height: 400px;
+    margin-left: 5px;
+    margin-right: 5px;
+    overflow: hidden;
+}
+
+#verdiepcieFoto {
+    max-width: 600px;
+    max-height: 400px;
+}
+
+.naam {
+    height: 400px;
+    overflow: hidden;
+}
+
+#infotext {
+    width: 500px;
+    overflow: hidden;
+}
+
+#poster {
+    width: 350px;
+    height: 500px;
+    overflow: hidden;
+}
+
+/* Custom page footer */
+.footer {
+    position: relative;
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+    clear: both;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 900px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}

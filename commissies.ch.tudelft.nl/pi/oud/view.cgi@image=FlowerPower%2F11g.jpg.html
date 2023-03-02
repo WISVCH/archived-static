@@ -1,0 +1,19 @@
+#!/bin/bash
+
+IMAGE=`./arg image "$QUERY_STRING"`
+echo -e "Content-Type: text/html\n"
+echo "<HTML>"
+echo "<TITLE>Het Grote Funcy Foto Archief</TITLE>"
+echo "<BODY bgcolor=000000>"
+echo "<TABLE HEIGHT=100% VALIGN=CENTER WIDTH=100%>"
+echo "<TR><TD>"
+echo "<CENTER>"
+echo "<FONT FACE='Verdana, Arial, Helvetica' size=+3 color=FFFFFF><B>Het Grote Funcy Foto Archief</B><BR><BR>"
+echo "<IMG SRC='http://ch.twi.tudelft.nl/~funcy/foto/$IMAGE'><BR>"
+FOTONUMMER=`echo "$IMAGE" | cut -d "g" -f 1 | cut -d "/" -f 2`
+echo "<FONT SIZE=+1>foto nummer $FOTONUMMER</FONT></FONT>"
+echo "</CENTER>"
+echo "</TD></TR>"
+echo "</TABLE>"
+echo "</BODY>"
+echo "</HTML>" 

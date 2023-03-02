@@ -1,0 +1,70 @@
+<html>
+<head><title>Funcy Foto Gallerij</title></head>
+
+<style type='text/css'>
+
+   td { font-family: Verdana, Arial, Helvetica;
+        font-size: 13pt;
+        color: FFFFFF;
+        background-color: 0000FF;
+        cell-width: 150;}
+
+   A:link, A:visited  { color: FFFFFF; text-decoration: none; }
+   A:hover { color: FFFFFF; text-decoration: underline; }
+
+</style>
+
+<script language="JavaScript">
+
+function preloadImages() {
+  if (document.images) {
+    if (document.preloadArray==null) document.preloadArray = new Array();
+    var i = document.preloadArray.length;
+    with (document)
+     for (var j=0; j<24; j++) {
+      preloadArray[i] = new Image;
+      preloadArray[i++].src = 'mpg/FlowerPower/'+j+'k.jpg';
+     }
+  }
+}
+
+function Change(number)
+{
+parent.foto.location='preview.cgi?image=mpg/FlowerPower/'+number+'k.jpg';
+return true;
+}
+
+</script>
+
+<body bgcolor=000000 onload="preloadImages()">
+<center>
+<table border=0>
+   <tr>
+      <td>
+         <center>
+         <table cellspacing=30>
+            <tr>
+               <td><a href='mpg/FlowerPower/movie1.mpg'
+                      onmouseover="Change(1)">1</a></td>
+               <td><a href='mpg/FlowerPower/movie2.mpg'
+                      onmouseover="Change(2)">2</a></td>
+               <td><a href='mpg/FlowerPower/movie3.mpg'
+                      onmouseover="Change(3)">3</a></td>
+               <td><a href='mpg/FlowerPower/movie4.mpg'
+                      onmouseover="Change(4)">4</a></td>
+               <td><a href='mpg/FlowerPower/movie5.mpg'
+                      onmouseover="Change(5)">5</a></td>
+               <td><a href='mpg/FlowerPower/movie6.mpg'
+                      onmouseover="Change(6)">6</a></td>
+               <td><a href='mpg/FlowerPower/movie7.mpg'
+                      onmouseover="Change(7)">7</a></td>
+            </tr>
+         </table>
+         </center>
+      </td>
+   </tr>
+</table>
+</center>
+</font>
+</body>
+</html>

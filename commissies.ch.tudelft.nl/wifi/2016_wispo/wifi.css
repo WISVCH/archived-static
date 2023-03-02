@@ -1,0 +1,74 @@
+.jumbotron{
+  	background-image:url('winter-snow.jpg');
+  	height: 500px;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+	
+.jumbotron h1 {
+  color : #ff69b4;
+  font-size: 100px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  color : #FFF0F5;
+  font-family: 'Shift', sans-serif;
+  font-size: 50px;
+}
+
+body {
+	background-color: #FFF0F5;
+}
+
+.information .container h1{
+	font-family: 'Shift', sans-serif;
+	font size : 25px;
+	color: #ff1493;
+	}
+.information .container h{
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+	color : #ff69b4;
+	font-size : 40px;
+	}
+
+			.information .container p{
+				font-family: 'Shift', sans-serif;
+				font-weight: bold;
+				font-size : 20px;
+			}
+
+			img[src="winter-snow.jpg"] {
+				 position: fixed;
+   				 top: 0;
+   				 left: 0;
+  				  width: 100%;
+   				 height: 100%;
+  				  background-repeat: no-repeat;
+    				background-attachment: fixed;
+  				  background-size: 100%;
+    				opacity: 0.4;
+    				filter:alpha(opacity=80);
+ 				z-index:-100;
+				
+			}
+			#signup {
+				color : #ff69b4;
+  				  width: 40%;
+   				 height: 40%;
+				
+				position: absolute;
+				margin-left: auto;
+				margin-right: auto;
+				left: 0;
+				right: 0px;
+				
+			}	
+			

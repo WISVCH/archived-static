@@ -1,0 +1,21 @@
+BODY {font-family:arial,verdana}
+
+P:first-line {text-indent:40px} 
+
+.maincontent {color:#333333}
+
+/*BLOCKQUOTE {}*/
+
+.links A {font-size:13px; color:lightgray;font-family:verdana;font-weight:normal}
+.links A:link {color:black; text-decoration:none;font-weight:normal}
+.links A:visited {color:black; text-decoration:none;font-weight:normal}
+.links A:hover {color:#444444; text-decoration:underline overline; background-color:#DDDDDD;font-weight:normal}
+.links A:active {color:black; text-decoration:none;font-weight:normal}
+
+A:link {color:darkorange; text-decoration:none}
+A:visited {color:darkorange; text-decoration:none}
+A:hover {color:orange }
+A:active {color:orange; text-decoration:none}
+
+
+.currentLink {background-color:#E6E6E6}

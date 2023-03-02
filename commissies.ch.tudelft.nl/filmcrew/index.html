@@ -1,0 +1,108 @@
+<html data-ublock-blocked="">
+
+<head>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>FilmCrew | Temptation π-land</title>
+
+	<link rel="icon" href="https://ch.tudelft.nl/wp-content/themes/rechallenge/assets/images/favicon.png">
+
+	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9"
+	 crossorigin="anonymous">
+	<link rel="stylesheet" href="assets/css/app.css">
+</head>
+
+<body>
+	<canvas id="analyser" width="1024" height="200" style="position: absolute; top: 0; bottom: 0;"></canvas>
+
+	<div class="container">
+		<div class="row justify-content-center align-items-center" id="main">
+			<div class="col-12">
+				<img class="temp-logo" src="assets/img/temp_island_logo.png" alt="">
+			</div>
+			<div class="col-12 text-center">
+				<div class="row justify-content-center">
+					<div class="col">
+						<a id="record" onclick="toggleRecording(this);" class="btn btn-success btn-block btn-icon">
+							<i class="fas fa-microphone"></i> start recording
+						</a>
+					</div>
+					<div class="col">
+						<a id="save" class="btn btn-secondary btn-block btn-icon">
+							<i class="fas fa-fw fa-save"></i> save
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-12 text-center">
+				<h4 class="display-4 mb-5" style="font-size: 32px; color: #fab508">Need some inspiration?</h4>
+				<div class="row">
+					<div class="col mb-2">
+						<a href="https://youtu.be/0A5IU-nB6KY?t=2m1s" target="_blank" class="btn btn-block btn-secondary">
+							Temptation Island intro
+						</a>
+					</div>
+					<div class="col mb-2">
+						<a href="https://www.youtube.com/watch?v=iZxagxfiCdM" target="_blank" class="btn btn-block btn-secondary">
+							Mensen, mensen, mensen
+						</a>
+					</div>
+					<div class="col mb-2">
+						<a href="https://www.youtube.com/watch?v=mbacx7YLUkI" target="_blank" class="btn btn-block btn-secondary">
+							Random zinnen
+						</a>
+					</div>
+					<div class="col mb-2">
+						<a href="https://www.youtube.com/watch?v=ndU1H-u45NQ" target="_blank" class="btn btn-block btn-secondary">
+							Kurkdroog - Deborah
+						</a>
+					</div>
+					<div class="col mb-2">
+						<a href="https://www.youtube.com/watch?v=-1P6LAR-jPU" target="_blank" class="btn btn-block btn-secondary">
+							#TOCHNIETDENTIM || Dino Daan
+						</a>
+					</div>
+					<div class="col mb-2">
+						<a href="https://www.youtube.com/watch?v=IB819FUj6WQ" target="_blank" class="btn btn-block btn-secondary">
+							De leukste Temptation Island Uitspraken!!
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLabel">Recording has been saved!</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<p>You are awesome 🤩! Thanks for recording a sample, which we might use in the Freshman Weekend 2018 aftermovie. Curious
+						if you made it into the movie? Come the to the Freshman Weekend Reunion.</p>
+
+					<p>Huges and kisses,</p>
+
+					<p>The CamGirls</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
+	<script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="node_modules/file-saver/FileSaver.js"></script>
+	<script type="text/javascript" src="assets/js/audiodisplay.js"></script>
+	<script type="text/javascript" src="assets/js/recorder.js"></script>
+	<script type="text/javascript" src="assets/js/main.js"></script>
+</body>
+
+</html>
