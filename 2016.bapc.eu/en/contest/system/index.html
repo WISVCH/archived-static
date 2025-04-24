@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <link rel="stylesheet" href="../../../static/css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+    <title>System &mdash; BAPC 2016</title>
+</head>
+<body>
+<div id="wrap">
+    <div id="head">
+        <img src="../../../static/img/logo_bapc_2016_background.jpg" style="height: 190px"/>
+
+        <!-- <h1>Northwestern European Regional Contest</h1> -->
+
+        <!-- <h2>November 22-24 2013</h2> -->
+
+    </div>
+
+    <ul id="menu">
+
+
+<li class="">
+	<a href="../../../index.html">Home</a>
+
+</li>
+
+<li class="ancestor">
+	<a href="../index.html">Contest</a>
+
+    <ul>
+
+
+<li class="sibling">
+	<a href="../preliminaries/index.html">Preliminaries</a>
+
+</li>
+
+<li class="sibling">
+	<a href="../schedule/index.html">Schedule</a>
+
+</li>
+
+<li class="sibling">
+	<a href="../scoreboard/index.html">Scoreboard</a>
+
+</li>
+
+<li class="selected">
+	<a href="index.html">System</a>
+
+</li>
+
+<li class="sibling">
+	<a href="../teams/index.html">Teams</a>
+
+</li>
+
+<li class="sibling">
+	<a href="../rules/index.html">Rules</a>
+
+</li>
+
+<li class="sibling">
+	<a href="../semi-live/index.html">Semi-Live Online Contest</a>
+
+</li>
+
+
+    </ul>
+
+</li>
+
+<li class="">
+	<a href="../../results/index.html">Results</a>
+
+</li>
+
+<li class="">
+	<a href="../../location/index.html">Location</a>
+
+</li>
+
+<li class="">
+	<a href="../../contact/index.html">Contact</a>
+
+</li>
+
+
+    </ul>
+
+    <div id="content">
+
+
+    <h1><span style="line-height: 5px;">General</span></h1><p><span style="line-height: 5px;">The information on this page is subject to change. Please check later for the definitive information.&nbsp;</span></p><p><span style="line-height: 5px;">The machines are PCs with an installation based on the Jessie release of Debian GNU/Linux amd64. It is allowed to bring your own simple keyboard. Programmable keyboards are not allowed. We provide a simple mouse and it is not allowed to bring your own mouse.</span></p><p><span style="line-height: 5px;">This page lists the available software. There will also be online documentation for C, C++ and Java available (but of course no internet access). The offline version of cppreference.com is also available. If you have any questions or requests please contact technicie@ch.tudelft.nl.</span></p><h1><span style="line-height: 5px;">Compilation Options</span></h1><p><span style="line-height: 5px;">All programs will run with a 1,5GB memory limit. Because of JVM overhead, a little more than 1200MB of heap space is available to Java programs.</span></p><pre><ul><li><span style="line-height: 5px;">C:</span><span style="line-height: 5px;">gcc -g -Wall -O2 -std=gnu99 -static -pipe -o $DEST "$@" -lm</span></li><li><span style="line-height: 5px;">C++:
+</span><span style="line-height: 5px;">g++ -g -Wall -O2 -std=gnu++98 -static -pipe -o $DEST "$@"</span></li><li><span style="line-height: 5px;">C++11:
+</span><span style="line-height: 5px;">g++ -g -Wall -O2 -std=c++11 -static -pipe -o $DEST "$@"</span></li><li><span style="line-height: 5px;">Java compilation:
+</span><span style="line-height: 5px;">javac -encoding UTF-8 -d . "$@"</span></li><li><span style="line-height: 5px;">Java runtime:</span></li><li><span style="line-height: 5px;">java -Xrs -Xss64m -Xmx1272864k</span><span style="line-height: 5px;"> $MAINCLASS</span></li></ul></pre><p><span style="line-height: 5px;">There will be aliases available on the system in the format of &nbsp;'mygcc', 'myg++', 'myg11', 'myjavac' and 'myjava'.</span></p><h1><span style="line-height: 5px;">Window managers</span></h1><ul><li><span style="line-height: 5px;">GNOME 3.14</span></li><li><span style="line-height: 5px;">KDE Plasma 4.11</span></li><li><span style="line-height: 5px;">Xfce 4.10</span></li></ul><h1>Compilers/interpreters</h1><ul><li><span style="line-height: 5px;">GCC 4.9.2 (C, C++, C++11)</span></li><li><span style="line-height: 5px;">Java OpenJDK 8u102</span><br><ul><li><span style="line-height: 5px;">OpenJDK Runtime Environment (build 14)</span></li><li><span style="line-height: 5px;">OpenJDK 64-Bit Server VM (build 14, mixed mode)</span></li></ul></li><li><span style="line-height: 5px;">Python 2.7.9</span></li><li><span style="line-height: 5px;">Python 3.4.2</span></li><li><span style="line-height: 5px;">Mono 3.2.8</span></li><li>Haskell (ghc)</li></ul><h1><span style="line-height: 5px;">Editors</span></h1><ul><li><span style="line-height: 5px;">Emacs 24.4</span></li><li><span style="line-height: 5px;">Vim 7.4</span></li><li><span style="line-height: 5px;">Eclipse 4.6 with CDT 9.1</span></li><li><span style="line-height: 5px;">IntelliJ IDEA CE 2016.2</span></li><li><span style="line-height: 5px;">Netbeans 8.2</span></li><li><span style="line-height: 5px;">Nano 2.2</span></li><li><span style="line-height: 5px;">Kate 3.14</span></li><li><span style="line-height: 5px;">Gedit 3.14</span></li><li><span style="line-height: 5px;">Geany 1.24</span></li><li><span style="line-height: 5px;">KWrite 4.14</span></li><li><span style="line-height: 5px;">KDevelop 4.7</span></li><li><span style="line-height: 5px;">MonoDevelop 4.0</span></li><li><span style="line-height: 5px;">CodeBlocks 16.01</span></li><li><span style="line-height: 5px;">joe 3.7</span></li><li><span style="line-height: 5px;">Sublime Text 3</span></li></ul><h1><span style="line-height: 5px;">Other</span></h1><ul><li><span style="line-height: 5px;">Konsole 2.14.2</span></li><li><span style="line-height: 5px;">Make 4.0</span></li><li><span style="line-height: 5px;">CMake 3.0</span></li><li><span style="line-height: 5px;">gdb 7.7</span></li><li><span style="line-height: 5px;">kdbg 2.5</span></li><li><span style="line-height: 5px;">Valgrind 3.10</span></li><li><span style="line-height: 5px;">kcachegrind 0.7.4kde</span></li><li><span style="line-height: 5px;">Perl 5.20.2 (not as a submission language!)</span></li><li><span style="line-height: 5px;">Scala 2.9.2 (not as a submission language!)</span></li><li><span style="line-height: 5px;">git 2.1</span></li><li><span style="line-height: 5px;">screen 4.02</span></li><li><span style="line-height: 5px;">galculator 2.1</span></li></ul>
+
+    </div>
+</div>
+
+<div id="sponsors">
+    <h2>Premium sponsors</h2>
+    <p>
+        <a href="http://www.ing.nl/"><img class="main" src="../../../static/img/ing.jpg"/></a>
+        <a href="http://www.flowtraders.com/"><img class="main" src="../../../static/img/flow.jpg"/></a>
+        <a href="https://www.prodrive-technologies.com/"><img class="main" src="../../../static/img/prodrive.jpg"/></a>
+    </p>
+    <h2>Event sponsors</h2>
+    <p>
+        <a href="http://careers.quintiq.com/"><img src="../../../static/img/quintiq.jpg"/></a>
+        <a href="http://www.ovsoftware.nl/"><img style="max-width: 350px" src="../../../static/img/ovsoftware.jpg"/></a>
+	<a href="https://workingatbooking.com/department/high-potential/"><img src="../../../static/img/booking.jpg"/></a>
+    </p>
+</div>
+
+
+</body>
+</html>

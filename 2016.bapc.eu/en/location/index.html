@@ -1,0 +1,195 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+
+    <link rel="stylesheet" href="../../static/css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+    <title>BAPC 2016</title>
+</head>
+<body>
+<div id="wrap">
+    <div id="head">
+        <img src="../../static/img/logo_bapc_2016_background.jpg" style="height: 190px"/>
+
+        <!-- <h1>Northwestern European Regional Contest</h1> -->
+
+        <!-- <h2>November 22-24 2013</h2> -->
+
+    </div>
+
+    <ul id="menu">
+        
+
+<li class="sibling">
+	<a href="../../index.html">Home</a>
+	
+</li>
+
+<li class="sibling">
+	<a href="../contest/index.html">Contest</a>
+	
+    <ul>
+        
+
+<li class="">
+	<a href="../contest/preliminaries/index.html">Preliminaries</a>
+	
+</li>
+
+<li class="">
+	<a href="../contest/schedule/index.html">Schedule</a>
+	
+</li>
+
+<li class="">
+	<a href="../contest/scoreboard/index.html">Scoreboard</a>
+	
+</li>
+
+<li class="">
+	<a href="../contest/system/index.html">System</a>
+	
+</li>
+
+<li class="">
+	<a href="../contest/teams/index.html">Teams</a>
+	
+</li>
+
+<li class="">
+	<a href="../contest/rules/index.html">Rules</a>
+	
+</li>
+
+<li class="">
+	<a href="../contest/semi-live/index.html">Semi-Live Online Contest</a>
+	
+</li>
+
+
+    </ul>
+    
+</li>
+
+<li class="sibling">
+	<a href="../results/index.html">Results</a>
+	
+</li>
+
+<li class="selected">
+	<a href="index.html">Location</a>
+	
+</li>
+
+<li class="sibling">
+	<a href="../contact/index.html">Contact</a>
+	
+</li>
+
+
+    </ul>
+
+    <div id="content">
+        
+        
+    <h1>Contest site</h1><p>The Benelux Algorithm Programming Contest will be held at the Delft University, The Netherlands. The contest will take place in <strong>Building 35</strong>, located in the middle of the university campus(<span class="plugin_link"><a href="http://home.tudelft.nl/fileadmin/UD/MenC/Support/Internet/TU_Website/TU_Delft_portal/Over_TU_Delft/Containers/doc/Plattegrond_2010.pdf" target="_blank">Map</a></span>). The full address is:<br>Drebbelweg 5<br>2628 CM Delft</p>
+
+
+
+
+
+<div class="plugin_googlemap">
+  <h2>Contest Site</h2>
+
+  <div id="google-map-544" class="google-map-container"
+       style="width: 100%; height: 400px;"></div>
+
+  
+    <form action="http://maps.google.com/" method="get" class="frm google-map-routeplaner">
+      <fieldset>
+        <h3 class="nospace">Plan your route:</h3>
+        <p>
+          <label for="saddr-544">Your address: </label>
+          <input type="text" id="saddr-544" name="saddr" class="input_text" />
+          <span class="btn"><input type="submit" value="Calculate route" /></span>
+          <input type="hidden" name="daddr" value="Drebbelweg 5, 2628 CM Delft" />
+        </p>
+      </fieldset>
+    </form>
+  
+</div>
+
+
+    </div>
+</div>
+
+<div id="sponsors">
+    <h2>Premium sponsors</h2>
+    <p>
+        <a href="http://www.ing.nl/"><img class="main" src="../../static/img/ing.jpg"/></a>
+        <a href="http://www.flowtraders.com/"><img class="main" src="../../static/img/flow.jpg"/></a>
+        <a href="https://www.prodrive-technologies.com/"><img class="main" src="../../static/img/prodrive.jpg"/></a>
+    </p>
+    <h2>Event sponsors</h2>
+    <p>
+        <a href="http://careers.quintiq.com/"><img src="../../static/img/quintiq.jpg"/></a>
+        <a href="http://www.ovsoftware.nl/"><img style="max-width: 350px" src="../../static/img/ovsoftware.jpg"/></a>
+	<a href="https://workingatbooking.com/department/high-potential/"><img src="../../static/img/booking.jpg"/></a>
+    </p>
+</div>
+
+  <script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?v=3&sensor=true"></script>
+
+
+  <script type="text/javascript">
+    (function () {
+      // save settings form plugin
+      var container = 'google-map-544';
+      var latlng = new google.maps.LatLng(46.94708, 7.445975); // default to switzerland
+
+      var title = "Contest Site";
+      var address = "Drebbelweg 5, 2628 CM Delft";
+
+      var options = {
+        zoom: 13,
+        mapTypeId: google.maps.MapTypeId.ROADMAP /* ROADMAP, SATELLITE, HYBRID or TERRAIN */
+      };
+
+      
+        // load latlng from given address
+        var geocoder = new google.maps.Geocoder();
+          geocoder.geocode({'address': address}, function (results, status) {
+            // check if address can be found if not show default (var latlng)
+            if(status == google.maps.GeocoderStatus.OK) latlng = results[0].geometry.location;
+            initGoogleMaps(latlng);
+          });
+      
+
+      // initialize google maps
+      function initGoogleMaps(latlng) {
+        // overwrite options
+        options.center = latlng;
+        // initialize google map
+        var map = new google.maps.Map(document.getElementById(container), options);
+        // create marker
+        var marker = new google.maps.Marker({
+          'position': options.center,
+          'map': map,
+          'title': title
+        });
+        // prepare info window
+        var infowindow = new google.maps.InfoWindow({
+          content: "<strong>" + title + "</strong> \
+                    <br />" + address 
+        });
+        // show info window
+        infowindow.open(map, marker);
+      }
+    })();
+  </script>
+
+
+</body>
+</html>
