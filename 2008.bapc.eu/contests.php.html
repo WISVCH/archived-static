@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>Benelux Algorithm Programming Contest 2008 (BAPC)</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+
+<body style="background: url(background_seamless.jpg) 0px 100px ; margin: 0">
+
+<div style="position: absolute; top: -50px; left: 10px">
+<a href="index.php.html"><img src="logob.gif" style="border: 0px; width:200px" alt="BAPC 2008"></a>
+</div>
+
+<div style="position: absolute; top: 20px; left: 450px;">
+<a href="http://www.technolution.nl"><img src='sponsors/techno.png' alt='Technolution' style='border:solid; border-width:0px;'></a>
+<a href="http://icpc.baylor.edu/icpc/default.htm"><img src="icpc.gif" style="margin-right: 5px; border: 0px" alt="ICPC"></a>
+<a href="http://ch.tudelft.nl/"><img src="ch.gif" style="margin-right: 5px; border: 0px" alt="Christiaan Huygens"></a>
+<a href="http://www.tudelft.nl/"><img src="tudelft.gif" style="margin-right: 5px; border: 0px" alt="TU Delft"></a>
+</div>
+
+<div id="mainheader" style="height: 100px; background: white;">
+</div>
+
+<div id="menu" style="height: 25px; background-color: #45A143; padding-left: 250px">
+<a href="index.php.html"><img src="menu_home.gif" style="border: 0px;" alt="Home"></a>
+<!--<a href="index.php"><img src="menu_register.gif" style="border: 0px;" alt="Register"></a>-->
+<a href="contests.php.html"><img src="menu_contests.gif" style="border: 0px;" alt="Contests"></a>
+<a href="sponsors.php.html"><img src="menu_sponsors.gif" style="border: 0px;" alt="Sponsors"></a>
+<a href="links.php.html"><img src="menu_links.gif" style="border: 0px;" alt="Links"></a>
+<a href="contact.php.html"><img src="menu_contact.gif" style="border: 0px;" alt="Contact"></a>
+</div>
+
+<div id="sponsors" style="background: white; position: absolute; left: 810px; top: 150px; padding: 10px; width: 170px; text-align: center">
+<!--<img src='sponsors.gif' alt="Sponsors">-->
+<p><a href='http://www.atosorigin.com'><img src='sponsors/atos.png' alt='Atos Origin' style='border:solid; border-width:0px;'></a></p>
+<p><a href='http://www.asml.com'><img src='sponsors/asml.png' alt='ASML' style='border:solid; border-width:0px;'></a></p>
+<p><a href='http://www.werkenopbeursplein5.nl/'><img src='sponsors/Saen.gif' alt='Saen Options' width=160 height=70 style='border:solid; border-width:0px;'></a></p>
+<p><a href='http://www.ortec.com'><img src='sponsors/ortec.png' alt='Ortec' style='border:solid; border-width:0px;'></a></p>
+<p><a href='http://www.logica.nl'><img src='sponsors/logica.png' alt='Logica' style='border:solid; border-width:0px;'></a></p>
+</div>
+
+<div id="body" style="background-img: blue; width:100% height:100%">
+
+<div style="text-align:center; background: white; left: 100px; top: 150px; position: absolute; padding: 10px; width: 200px">
+<script type="text/javascript">
+if (location.hash)
+	showdiv(location.hash.substring(1));
+</script>
+
+<script type="text/javascript">
+function showdiv(sdiv)
+{
+	contests.style.display='none';
+	specs.style.display='none';
+	rules.style.display='none';
+	problems.style.display='none';
+
+	sdiv.style.display='block';
+}
+</script>
+
+<img src='outline2.gif' class='left' alt="Outline">
+<a href="contests.php.html#contests" onclick="showdiv(contests);"><img src='contest2.gif' class='left' alt="Contest"></a>
+<a href="contests.php.html#specs" onclick="showdiv(specs);"><img src='specifications2.gif' class='left' alt="Specs"></a>
+<a href="contests.php.html#rules" onclick="showdiv(rules);"><img src='ruless2.gif' class='left' alt="Rules"></a>
+<a href="contests.php.html#problems" onclick="showdiv(problems);"><img src='problemss2.gif' class='left' alt="Problems"></a>
+</div>
+
+<div style="background: white; position: absolute; left: 330px; top: 150px; padding: 10px; width: 450px; text-align: center">
+<img src='teams2.jpg' alt="Teams">
+</div>
+
+<div style="background: white; position: absolute; left: 330px; top: 340px; padding: 10px; width: 450px; font-family: verdana; font-size: small">
+<div id="contests">
+<img src='contests.gif' alt="Contests">
+<p>Every year, the universities and colleges organise programming contests for students. The participants of these contests cooperate in teams of three persons. Each team tries and solves as many problems as possible within 5 hours by writing computer programs. The contests are split up into different rounds, spanning different geographical regions: first the local championships, in our case the 'Delfts Kampioenschap Programmeren' (Delft Programming Contest), then the Benelux Algorithm Programming Contest, followed by the North Western European Regional Contest, and finally the World Finals. Every autumn a Delfts Kampioenschap Programmeren is being held in Delft and a Benelux Algorithm Programming Contest somewhere in the Netherlands. Participation in the Delfts Kampioenschap is possible for every student from Delft University of Technology and participation in the Benelux Algorithm Programming Contest is possible for every student from any university from the Benelux. If you're interested in programming and algorithms, do participate!</p>
+<p><b>Organisation</b></p>
+<p>Every year the ACM (Association for Computing Machinery) organises the international programming contests for students. Among these international contests are the 'regional' contests (the Benelux is in the North Western Europe region). The teams that perform best on these regional contests can participate in the World Finals, which are held on a different location each year.
+Every university can send a few teams to the regional contests. Because there's much interest in these contests in Delft and the Benelux, qualifying rounds are held, where the best teams from several universities are selected.
+The best teams from all universities in the Benelux participate in the Benelux Algorithm Programming Contest. This contest is organized by a different university every year, usually a few weeks after the preliminary rounds. The results from the BAPC are usually used to decide which teams participate in the regional contest. Usually these are the best and second-best teams from a university.</p>
+
+<p><b>Contest</b></p>
+<p>The way a preliminary round is run is mostly the same as with the international contests. Participants are organized in teams of three persons. Six to eight problems are handed out at the start of the contest. The teams are supposed to create a program to solve these problems. The program reads the input from an input-file, finds the correct answer, and writes the result as output.
+As soon as a team thinks the program is ready to solve the problem correctly, it can be sent to the jury over the network. They will test the program and tell the team whether it's good or bad. A bad program can be improved by the team and sent to the jury again. Programs are only judged on functionality. You can program as raunchy as you like!
+Every team can use one computer to implement and test the programs. Besides that, one can take along as many books, papers and notes as one can carry, but digital storage, calculators, laptops and the like are prohibited.</p>
+
+<p><b>Score</b></p>
+<p>The participants have about five hours to solve as many problems as possible. The score is determined by the number of solved problems, without making a distinction between hard and easy problems. Of course it's possible that multiple teams solve the same number of problems. In that case the time used to solve the problem breaks the tie. For every correctly solved problem the time from the start of the contest until the submission of the solution counts. On top of that 20 minutes are added for each time a wrong solution was submitted. The lower the total time, the better the score.</p>
+
+<p><b>Problems</b></p>
+<p>The problems are usually based on well-known classic algorithms, such as the shortest path algorithm of Dijkstra, or backtracking. Often a few mathematical problems are found. To solve as many problems as possible it's very important to work together and divide the work. There's only one computer available, so you'll have to use it as useful as possible. A bit of programming experience, knowledge of algorithms or your team manual to find difficult things are always handy.</p>
+</div>
+
+<div id="specs" style="display: none">
+<img src='specs.gif' alt="Specs">
+<p>During the contest the computer is your most valuable resource (except maybe for coffee). Some explanation about what you can expect from our systems, is therefore in order.</p>
+
+<p><b>Hardware</b></p>
+<p>During the contest each team will have exactly one computer (with TFT screen, keyboard and mouse). Because of possible
+revisions by the faculty, the specification of the computers are unknown at the time of the publication of this text, but they
+will vary between two years old and brand new. In any case, the jury will use similar machines to judge your submissions.</p>
+
+<p><b>Software</b></p>
+<p>The only operating system available to you will be Debian GNU/Linux. The jury will run your submissions on the same
+system with the same compilers. During the contest you will be able to choose between the languages C, C++ or Java.
+Using different languages for different solutions is possible and allowed.</p>
+
+<p><b>Versions</b></p>
+<p>The machines will be based on the Lenny release of Debian GNU/Linux.</p>
+<p><b>Window Managers</b></p>
+<p>
+Available window managers are:
+<ul>
+<li>GNOME 2.22 (default)</li>
+<li>KDE 3.5</li>
+<li>Xfce 4.4</li>
+<li>Ion3 20080707</li>
+</ul>
+</p>
+<p><b>Compilers</b></p>
+<p>
+Available compilers are:
+<ul>
+<li>GCC 4.3.2 (C and C++)</li>
+<li>SUN Java 6 update 7</li>
+</ul>
+</p>
+<p><b>Editors</b></p>
+<p>
+Available editors are (among others):
+<ul>
+<li>Emacs 22.2</li>
+<li>Vim 7.1.314</li>
+<li>Eclipse 3.2.2</li>
+<li>Netbeans 6.0.1</li>
+<li>Nano 2.0.7</li>
+<li>Kate 3.5</li>
+</ul>
+</p>
+<p><b>Disclaimer</b></p>
+<p><b>The provided list is only an indication and is likely to change.</b></p>
+<p>This list will be regularly updated. If your favourite window manager or editor is not on
+the list or if you have other requirements, you can send us a request and we will look whether it is possible
+to install it.</p>
+
+</div>
+
+<div id="rules" style="display: none">
+<img src='rules.gif' alt="Rules">
+<p><b>1. Definitions</b></p>
+<p>TU Delft: Delft University of Technology</p>
+<p>BAPC: The 2008 Benelux Algorithm Programming Contest, which takes place on 25 October 2008 at the faculty of Electrical Engineering, Mathematics and Computer Science of TU Delft.</p>
+<p>CH: W.I.S.V. `Christiaan Huygens', Study Association for the study programs Mathematics and Computer Science of the TU Delft.</p>
+<p>Organization: The members of the organizing committee of CH.</p>
+<p>Website: The website, maintained by the organization and available at http://www.bapc.nl</p>
+<p>Jury: The group of people responsible for making the problems and checking the solutions submitted by the participants.</p>
+<p>Runners: By the organization appointed persons, responsible for delivering print-outs, answering questions and various other tasks.</p>
+<p>Crew: Organization, members of the jury or runners.</p>
+<p>Participant: Member of a participating team that competes in BAPC.</p>
+<p>Submission: A submission of a solution by a team.</p>
+<p><b>2. Organization</b></p>
+<p>2.1 The organization exists of members of CH.</p>
+<p>2.2 The organization has formed a jury which exists of people of the organization, students and staff of the TU Delft and other universities.</p>
+<p>2.3 The organization has appointed some runners who will watch over the competition areas during the contest, hand out the print-outs and balloons and will be available for practical questions during the day.</p>
+<p>2.4 All staff will be recognizable by their shirt and/or badge.</p>
+<p>2.5 The organization will form a board of contest leaders.</p>
+<p><b>3. Participation</b></p>
+<p>3.1 Introduction</p>
+<p>3.1.1 Participation is only possible in teams consisting of up to 3 persons.</p>
+<p>3.1.2 There are two pools: One for student teams and one for business teams.</p>
+<p>3.1.3 Changing the composition of a team is only possible when the organization has agreed upon this.</p>
+<p>3.1.4 The organization shall decide how many teams from each institution shall be allowed to compete. The organization will consider the number of interested contestants from each institution.</p>
+<p>3.1.5 The organization has the right to deny teams of participation before the start of the contest.</p>
+<p>3.2 Student teams</p>
+<p>A student team:</p>
+<p>3.2.1 may participate for free.</p>
+<p>3.2.2 exists of students from the same institution and who are not participating in another team.</p>
+<p>3.2.3 has a coach, which is the contact person of a team. This can be a team member or a student or staff member of the institution.</p>
+<p>3.2.4 participates in the student teams pool for the title "Benelux Champion Algorithm Programming 2008" with the cup and the prize money of 1024,- 512,- and 256,- euro for first, second, and third places respectively.</p>
+<p>3.2.5 consists of students from the same institution.</p>
+<p>3.2.6 consists of students who are eligible for the North Western European Programming Contest 2008.</p>
+<p>3.3 Business teams</p>
+<p>A business team:</p>
+<p>3.3.1 pays the registration fee, before the start of the contest.</p>
+<p>3.3.2 consists out of persons who are employed by the same company or institution.</p>
+<p>3.3.3 Compete in the pool business teams for the title "Benelux Champion Algorithm Programming 2008" and the prize money of 512 euro.</p>
+<p><b>4. BAPC</b></p>
+<p>4.1 Introduction</p>
+<p>4.1.1 The language used on BAPC is English.</p>
+<p>4.1.2 BAPC lasts for 5 hours.</p>
+<p>4.1.3 From the beginning until one hour before the end of the BAPC, the scores are displayed.</p>
+<p>4.2 Problems</p>
+<p>4.2.1 The jury will provide at least 6 and at most 10 problems.</p>
+<p>4.2.2 When a problem is unclear a "clarification request" can be sent to the jury. The jury will respond to this request. If the response is relevant to all teams, the jury will send the response to all teams.</p>
+<p>4.2.3 The jury has the right to change or withdraw problems during the contest. When this happens the jury will inform all teams.</p>
+<p>4.3 System</p>
+<p>4.3.1 Each team has the same workplace available.</p>
+<p>4.3.2 A solution has to be written in C/C++ or Java.</p>
+<p>4.3.3 The jury decides per programming language which libraries and function calls are allowed to be used in the solutions.</p>
+<p>4.3.4 All prints made by the teams are brought by a runner. Participants are not allowed to be near the printers.</p>
+<p>4.3.5 A team is allowed to bring up to 30 A4-sized pages of documentation; no other documentation (including books and manuals) is allowed.</p>
+<p>4.3.6 A team is not allowed to bring software or hardware on the contest floor.</p>
+<p>4.4 Department rules</p>
+<p>4.4.1 Inside the building where the BAPC takes place, the house rules also apply.</p>
+<p>4.4.2 Inside computer rooms eating, drinking, and smoking is not allowed.</p>
+<p>4.4.3 The use of hardware, including all calculators, which is not approved by the organization is forbidden, with exceptions of simple watches and medical equipment.</p>
+<p>4.4.4 Changing of hardware or Operating software is strictly forbidden.</p>
+<p>4.4.5 During the contesg, communication within the team and crew is allowed. Communication with everyone else is forbidden during the contest.</p>
+<p>4.4.6 Participants will follow orders given by the crew.</p>
+<p>4.4.7 Participants will wear the shirt and badge provided by the organization.</p>
+<p>4.5 Judgment</p>
+<p>4.5.1 A submission is handled by an automated jury system. The organization is responsible for behavior of the system. The jury will check the behavior of the system.</p>
+<p>4.5.2 Each submission is acknowledged.</p>
+<p>4.5.3 For each problem, the jury has a correct solution and test data.</p>
+<p>4.5.4 A submission is correct when it has a solution to the input in a time limit decided by the jury and the output is the same as the output of the jury. This time limit is not announced to the teams.</p>
+<p>4.5.5 The winner of a pool is decided by (in order):</p>
+<p>1. The team with the most correctly solved problems.</p>
+<p>2. The team with the least solving time. This is the sum of the time needed for every solved problem, plus a 20-minute penalty for each wrong submission until the first correct submission. (Incorrect solutions for which a team hasn't submitted a correct solution or incorrect solutions submitted after a correct solution was accepted do not add to the solving time.)</p>
+<p>4.5.6 The jury is responsible for everything that has to do with the problem set and can be contacted for this through the "clarification requests."</p>
+<p><b>5. Special rules</b></p>
+<p>5.1 The organization has the right to disqualify teams for misbehavior or breaking the rules, including dislodging extension cords, unauthorized modification of contest materials, or distracting behavior.</p>
+<p>5.2 The contest leaders have the right to stop the contest, extend the contest time, temporarily block submissions for all teams or change the scores in exceptional conditions.</p>
+<p>5.3 In situations to which no rule applies, the organization decides.</p>
+</div>
+
+<div id="problems" style="display: none">
+<img src='problems.gif' alt="Problems">
+<p>Programming contests consist of about eight problems, each requesting you to program an algorithm that solves the problem. To give you an idea of what kind of problems are used at the contest, and how these problems are presented to you, we have provided the problem set used in the preliminary rounds for the BAPC 2005, as well as a sample problem - with a sample solution - from a contest held back in 1994.</p>
+<p><b>Simple syntax</b></p>
+<p>In the land of Hedonia the official language is Hedonian. A Hedonian professor
+had noticed that many of her students still did not master the syntax of
+Hedonian well. Tired of correcting the many syntactical mistakes, she decided to
+challenge the students and asked them to write a program that could check the
+syntactical correctness of any sentence they wrote. Similar to the nature of
+Hedonians, the syntax of Hedonian is also pleasantly simple. Here are the
+rules: </p>
+<p>0. The only characters in the language are the characters p through z and N, C,
+D, E, and I. </p>
+<p>1. Every character from p through z is a correct sentence. </p>
+<p>2. If s is a correct sentence, then so is Ns. </p>
+<p>3. If s and t are correct sentences, then so are Cst, Dst, Est, and Ist. </p>
+<p>4. Rules 0. to 3. are the only rules to determine the syntactical correctness of a sentence. </p>
+
+<p>You are asked to write a program that checks if sentences satisfy the syntax
+rules given in Rule 0. - Rule 4. </p>
+
+<p>Input:</p>
+
+<p>The input consists of a number of sentences consisting only of characters p
+through z and N, C, D, E, and I. Each sentence is ended by a new-line character.
+The collection of sentences is terminated by the end-of-file character. If
+necessary, you may assume that each sentence has at most 256 characters and at
+least 1 character. </p>
+
+<p>Output:</p>
+
+<p>The output consists of the answers YES for each well-formed sentence and NO for
+each not-well-formed sentence. The answers are given in the same order as the
+sentences. Each answer is followed by a new-line character, and the list of
+answers is followed by an end-of-file character. </p>
+
+<p>Sample Input:</p>
+
+Cp<br>
+Isz<br>
+NIsz<br>
+Cqpq<br>
+
+<p>Sample Output:</p>
+
+NO<br>
+YES<br>
+YES<br>
+NO<br>
+
+<!--<p>The input used to check contestant's solutions can be found here, the output that the solution should generate is behind this link, and here's a sample solution in C.</p>-->
+</div>
+
+</div>
+</div>
+
+</body>
+
+</html>

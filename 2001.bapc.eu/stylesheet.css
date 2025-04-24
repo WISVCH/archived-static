@@ -1,0 +1,13 @@
+td { font-family: Verdana, Helvetica, Arial; font-size:10pt; }
+td.small { font-family: Verdana, Helvetica, Arial, Lucida; font-size:9pt; color:#FFFFFF;}
+td.header { font-family: Verdana, Helvetica, Arial, Lucida; font-size:9pt; color:#FFFFFF; font-weight:bold}
+
+A:link, A:visited { text-decoration: none; color:#008cd8}
+A:hover { text-decoration: underline; }
+
+h1 { font-family: Trebuchet MS, Verdana, Helvetica, Arial, Lucida; font-size:25pt; text-decoration: none;}
+h2 { font-family: Trebuchet MS, Tahoma, Verdana, Helvetica, Arial, Lucida; font-size:30pt; text-decoration: none;}
+h3 { font-family: Trebuchet MS, Tahoma, Verdana, Arial, Helvetica, Lucida; font-size:16pt;}
+h4 { font-family: Verdana, Helvetica, Arial, Lucida; font-size:13pt; text-decoration: none;}
+h5 { font-family: Verdana, Helvetica, Arial, Lucida; font-size:10pt; text-decoration: none;}
+h6 { font-family: Verdana, Helvetica, Arial, Lucida; font-size:8pt; text-decoration: none;}
