@@ -1,17 +1,9 @@
+# syntax=docker.io/docker/dockerfile:1.7-labs
+
 FROM nginx:alpine
-RUN sed -i -r '\
-    /user\s+nginx;/d; \
-    s@/var/run/nginx.pid@/tmp/nginx.pid@; \
-    s@/var/log/nginx/error.log@stderr@; \
-    s@/var/log/nginx/access.log@/dev/stdout@' \
-    /etc/nginx/nginx.conf && \
-  sed -i -r 's@listen\s+80;@listen 8080;@; s@/usr/share/nginx/html@/srv@' /etc/nginx/conf.d/default.conf && \
-  sed -i '/server_name/a\    server_tokens off;' /etc/nginx/conf.d/default.conf && \
-  sed -i 's@index  index.html index.htm;@try_files $uri $uri/ =404;@g' /etc/nginx/conf.d/default.conf && \
-  sed -i 's@ root   /srv;@ root   /srv/$http_host;@g' /etc/nginx/conf.d/default.conf && \
-  sed -i '/server_name  localhost;/d' /etc/nginx/conf.d/default.conf && \
-  mv /usr/share/nginx/html/* /srv && \
-  rmdir /usr/share/nginx/html /usr/share/nginx /var/cache/nginx && \
-  ln -s /tmp /var/cache/nginx
-USER 100
-COPY  . /srv
+
+RUN rm -rf /usr/share/nginx/html
+RUN rm /etc/nginx/conf.d/default.conf
+
+COPY . /usr/share/nginx/html
+COPY ./nginx.conf /etc/nginx/conf.d/wisvch.conf
