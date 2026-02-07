@@ -1,0 +1,228 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+<style type="text/css">
+<!--
+	.google-map-container { width:100%; height:400px; }
+-->
+</style>
+
+
+      <link rel="stylesheet" href="../../static/css/style.css">
+      <title>Location &mdash; NWERC 2012</title>
+  </head>
+  <body>
+
+
+      <div id="wrap">
+        <div id="head">
+          <img src="../../static/img/icpc.png" style="float:right" />
+          <h1>Northwestern European Regional Contest</h1>
+          <h2>November 23-25 2012</h2>
+
+        </div>
+
+        <ul id="menu">
+
+
+<li class="sibling">
+	<a href="../index.html">Home</a>
+
+</li>
+
+<li class="sibling">
+	<a href="../contest/index.html">Contest</a>
+
+    <ul>
+
+
+<li class="">
+	<a href="../contest/schedule/index.html">Schedule</a>
+
+</li>
+
+<li class="">
+	<a href="../contest/system/index.html">System</a>
+
+</li>
+
+<li class="">
+	<a href="../contest/rules/index.html">Rules</a>
+
+</li>
+
+<li class="">
+	<a href="../contest/teams/index.html">Teams</a>
+
+</li>
+
+<li class="">
+	<a href="../contest/activities/index.html">Activities</a>
+
+</li>
+
+<li class="">
+	<a href="../contest/online-contest/index.html">Online contest</a>
+
+</li>
+
+
+    </ul>
+
+</li>
+
+<li class="sibling">
+	<a href="../results/index.html">Results</a>
+
+    <ul>
+
+
+<li class="">
+	<a href="../results/scoreboard/index.html">Scoreboard</a>
+
+</li>
+
+<li class="">
+	<a href="../results/problems/index.html">Problems</a>
+
+</li>
+
+<li class="">
+	<a href="../results/media/index.html">Media</a>
+
+</li>
+
+
+    </ul>
+
+</li>
+
+<li class="selected">
+	<a href="index.html">Location</a>
+
+    <ul>
+
+
+<li class="descendant">
+	<a href="travel-information/index.html">Travel Information</a>
+
+</li>
+
+<li class="descendant">
+	<a href="accomodation/index.html">Accommodation</a>
+
+</li>
+
+
+    </ul>
+
+</li>
+
+<li class="sibling">
+	<a href="../contact/index.html">Contact</a>
+
+</li>
+
+
+        </ul>
+
+        <div id="content">
+
+
+  <h1>Contest Site</h1>
+<table width="100%" style="border: none; border-color: white;"><tbody style="border: none;"><tr><td style="border: none;">
+<p>The North Western European Regional Contest will be held at the Delft University of Technology, the Netherlands. The contest will take place in <strong>Building 35</strong>, located in the middle of the university campus (<a href="http://home.tudelft.nl/fileadmin/UD/MenC/Support/Internet/TU_Website/TU_Delft_portal/Over_TU_Delft/Containers/doc/Plattegrond_2010.pdf">Map</a>). The full address is<br/>Drebbelweg 5<br/>2628 CM Delft.</p><p><span class="plugin_link"><a href="http://goo.gl/maps/FK0zb">Click here to get the NWERC 2012 map with areas of interrest.</a></span></p></td><td style="border: none;"><img src="http://home.tudelft.nl/fileadmin/UD/MenC/Support/Internet/TU_Website/TU_Delft_portal/Over_TU_Delft/Contact/Bereikbaarheid/Gebouw35/img/20090731TUDelftBLD__75_of_80_.jpg"/></td></tr></tbody></table>
+
+
+
+
+
+<div class="plugin_googlemap">
+	<h2>Contest Site</h2>
+
+	<!--  ATTENTION: set a height for this div in CSS -->
+	<div id="google-map-21" class="google-map-container"></div>
+
+
+	<form action="http://maps.google.com/" method="get" class="frm google-map-routeplaner">
+		<fieldset>
+			<h3 class="nospace">Plan your route:</h3>
+			<p>
+				<label for="saddr-21">Your address: </label>
+				<input type="text" id="saddr-21" name="saddr" class="input_text" />
+				<span class="btn"><input type="submit" value="Calculate route" /></span>
+				<input type="hidden" name="daddr" value="Drebbelweg 5, 2628 CM Delft" />
+			</p>
+		</fieldset>
+	</form>
+
+</div><h1>Lijm &amp; Cultuur</h1><p>The dinner on Saturday will be at Lijm &amp; Cultuur. The building is an late 19th century Glue and Gelatin Factory situated next to the river Schie. </p>
+<table width="100%"><tbody><tr>
+<td style="border: none;"><img src="http://www.lijmencultuur.nl/nieuw/locatie/plaatjes/foyer1.jpg"/></td>
+<td style="border: none;"><img src="http://www.lijmencultuur.nl/nieuw/locatie/plaatjes/kantoren1.jpg"/></td>
+<td style="border: none;"><img src="http://www.lijmencultuur.nl/nieuw/locatie/plaatjes/terrein1.jpg"/></td>
+</tr></tbody></table>
+
+        </div>
+      </div>
+
+      <div id="sponsors">
+        <h2>Event sponsors</h2>
+        <p>
+			<a href="http://www.ibm.com"><img src="../../static/img/IBM.png" /></a><a href="https://www.fox-it.com/"><img src="../../static/img/FOX-IT.png" alt="FOX-IT"/></a><a href="http://imc.nl"><img src="../../static/img/IMC.gif" alt="IMC"/></a><a href="http://www.quintiq.com/"><img src="../../static/img/quintic.png" alt="QuintiQ"/></a></p>
+      </div>
+      <script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?v=3&sensor=true"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function () {
+	// save settings form plugin
+	var container = 'google-map-21';
+	var latlng = new google.maps.LatLng('46.94708', '7.445975'); // default to switzerland
+
+	var title = "Contest Site";
+	var address = "Drebbelweg 5, 2628 CM Delft";
+
+	var options = {
+		zoom: 16,
+		mapTypeId: google.maps.MapTypeId.ROADMAP /* ROADMAP, SATELLITE, HYBRID or TERRAIN */
+	};
+
+
+	// load latlng from given address
+	var geocoder = new google.maps.Geocoder();
+		geocoder.geocode({'address': address}, function (results, status) {
+			// check if address can be found if not show default (var latlng)
+			if(status == google.maps.GeocoderStatus.OK) latlng = results[0].geometry.location;
+			initGoogleMaps(latlng);
+		});
+
+
+	// initialize google maps
+	function initGoogleMaps(latlng) {
+		// overwrite options
+		options.center = latlng;
+		// initialize google map
+		var map = new google.maps.Map(document.getElementById(container), options);
+		// create marker
+		var marker = new google.maps.Marker({
+			'position': options.center,
+			'map': map,
+			'title': title
+		});
+		// prepare info window
+		var infowindow = new google.maps.InfoWindow({
+			content: "<strong>" + title + "<\/strong><br />" + address  + "<br /><br /><em><\/em>"
+		});
+		// show info window
+		infowindow.open(map, marker);
+	}
+})();
+//]]>
+</script>
+
+
+  </body>
+</html>

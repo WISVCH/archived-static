@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NWERC 2022</title>
+    <link>https://2022.nwerc.eu/</link>
+    <description>Recent content on NWERC 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>W.I.S.V. &lsquo;Christiaan Huygens&#39;</copyright>
+    <lastBuildDate>Fri, 01 Apr 2022 17:50:27 +0200</lastBuildDate><atom:link href="https://2022.nwerc.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Problems</title>
+      <link>https://2022.nwerc.eu/cfp/</link>
+      <pubDate>Mon, 18 Apr 2022 11:50:27 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/cfp/</guid>
+      <description>We are pleased to announce the Call for Problems (CfP) for the 2022 edition of the NWERC programming contest.
+The tentative date for the contest is 25 to 27 November 2022, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2022 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event.</description>
+    </item>
+    
+    <item>
+      <title>Contest</title>
+      <link>https://2022.nwerc.eu/contest/</link>
+      <pubDate>Mon, 18 Apr 2022 12:56:52 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/contest/</guid>
+      <description>The Northwestern Europe Regional Contest (NWERC) is a contest in which teams from universities all over the Northwestern part of Europe are served a series of algorithmic problems. The goal of each team is to solve as many problems as possible within the 5 hour time limit. Potential solutions are submitted and corrected by an automated judging system. The team that solves the most problems at the end of the contest qualifies for the ICPC World Finals.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://2022.nwerc.eu/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/registration/</guid>
+      <description>Update: Registration is now closed.
+Registration will open at the 1st of October and will close on the 3rd of November. Registration will be done through the ICPC system. Teams can be promoted from the subregionals. Teams will only be accepted once the last subregional (29th of October) has taken place.
+Team Admission rules The following rules will be adhered to when accepting teams.
+The maximum number of teams (140) will not be exceeded.</description>
+    </item>
+    
+    <item>
+      <title>Teams</title>
+      <link>https://2022.nwerc.eu/teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/teams/</guid>
+      <description>The following teams are competing in NWERC 2022. The numbers in parentheses represent the location of the team&amp;rsquo;s workstation.
+NP-easy (100)Segmenttikuu (37) Dijkstra&amp;rsquo;s Dynamite (54)Code NoWERC (110) 1966 (42) LatLaget (27)O(no!) (147)IT-Böys (84) Segfault go BRRRR (4)ADA Refactor (72)Chindia Targoviste (89)WA &amp;amp; Chill (137)Exponential Fenwick (123) Piece of cake (35)Duck-Team% (25)CoffeeBeans (81)RookieMistake (124)Runtime Error (148) Fully Autonomous Unicycle (8)Fully Autonomous Unicorns (93) heap heap hoera (43) Hexaflexagons (57)Seems to be O(k!</description>
+    </item>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://2022.nwerc.eu/rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/rules/</guid>
+      <description>The ICPC regional contest rules can be found at the ICPC regionals website; official ICPC regional rules.
+In addition to the offical ICPC regional Rules, the following local rules also apply:
+Team composition A student may compete when eligible according to the official ICPC regional rules summarized in the 2022 ICPC Regionals Eligibility Diagram.
+A team consists of 3 eligible students. The educational institutions must be from one of the region&amp;rsquo;s member countries.</description>
+    </item>
+    
+    <item>
+      <title>Advice, Hints, and General Information from the NWERC Jury</title>
+      <link>https://2022.nwerc.eu/jury-advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/jury-advice/</guid>
+      <description>Your submissions will be run multiple times, on different input files. The order in which the input files are being used is fixed and does not change from one submission to another.
+If your submission is incorrect, the error message you get will be the error that occurred on the first input file on which you failed. E.g., if your submission is prone to crash but also incorrect, your submission may be judged as either &amp;ldquo;Wrong Answer&amp;rdquo; or &amp;ldquo;Run Time Error&amp;rdquo;, depending on which is discovered first.</description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>https://2022.nwerc.eu/systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/systems/</guid>
+      <description>This page describes current plans for the Programming Environment which will be available to each NWERC 2022 team.
+Each team will be provided with one laptop, shared between team members. Each laptop will have an external mouse. The configuration of each laptop will be as follows:
+Hardware The laptop will be an HP ProBook 650 G5 and will have the following hardware specifications:
+Intel Core i5 8265U Processor 4 cores, hyperthreading disabled CPU frequency 1.</description>
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>https://2022.nwerc.eu/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/location/</guid>
+      <description>The contest will take place at the Aula Conference Centre.
+To Delft by Car Parking is free of charge on campus. The six large parking areas are well signposted on the campus ring road.
+At the A13/E19 between Rotterdam and Den Haag, take exit 10, Delft-Zuid/TU Delft. Follow the Signs TU Delft until you drive on a downward slope until the crossing with the Schoenmakerstraat. Go right on to the Schoenmakerstraat and you have arrived at the campus ring road.</description>
+    </item>
+    
+    <item>
+      <title>Accommodations</title>
+      <link>https://2022.nwerc.eu/accommodations/</link>
+      <pubDate>Sat, 15 Oct 2022 18:30:00 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/accommodations/</guid>
+      <description>There are many hotels in Delft. Here is a list of possible hotels that are not very expensive and are easy to travel from to the campus.
+The student hotel Delft Cost: 60-95 euros per night per person Breakfast is possible for 25 euros 20 minutes walk or 5 minutes by bus to contest location Next to Delft station: Van Leeuwenhoekpark 1, 2611 DW Delft More information: https://www.thestudenthotel.com/delft/ Hotel Royal Bridges Cost: 60-110 euros per night per person Breakfast possible for 15 euros 20 minutes walk or 5 minutes by bus to contest location In city centre: Koornmarkt 55-65, 2611 EC Delft More information: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Contest</title>
+      <link>https://2022.nwerc.eu/schedule/contest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/contest/</guid>
+      <description>The contest will take 5 hours, with a score freeze at 14:00.
+For the available systems during the contest, see the Systems page.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://2022.nwerc.eu/contact/</link>
+      <pubDate>Mon, 18 Apr 2022 12:56:52 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/contact/</guid>
+      <description>The organisation can be contacted at contact@2022.nwerc.eu. Companies interested in supporting the contest can contact extern@2022.nwerc.eu.
+NWERC Coach Slack Since a couple of years there is a NWERC organisation slack. Coaches are invited to join here for quick access to the organisation for questions.
+Organisation The NWERC 2022 is hosted by the Delft University of Technology and organised by W.I.S.V. &lsquo;Christiaan Huygens&amp;rsquo;.
+CHipCie The CHipCie takes care of the programming contest within Delft and consists of the following people.</description>
+    </item>
+    
+    <item>
+      <title>NWERC 2023 date announced</title>
+      <link>https://2022.nwerc.eu/news/nwerc-2023-date/</link>
+      <pubDate>Thu, 08 Jun 2023 09:00:00 +0100</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/nwerc-2023-date/</guid>
+      <description>The 2023 edition of the NWERC will be held from the 24th to the 26th of November. More information can be found on the 2023 NWERC website.</description>
+    </item>
+    
+    <item>
+      <title>Spectator contest</title>
+      <link>https://2022.nwerc.eu/news/spectator-contest/</link>
+      <pubDate>Thu, 24 Nov 2022 09:00:00 +0100</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/spectator-contest/</guid>
+      <description>There will be a spectator contest hosted on spectator.nwerc.eu. Here you can self-register your team! The contest will start at 10:30 CET on Sunday (November 27th, 2022). This is half an hour later than the start of the real contest.</description>
+    </item>
+    
+    <item>
+      <title>Livestream URLs</title>
+      <link>https://2022.nwerc.eu/news/livestreams/</link>
+      <pubDate>Tue, 22 Nov 2022 09:00:00 +0100</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/livestreams/</guid>
+      <description>The URLs for the livestreams have already been created, and can be found here:
+Opening Ceremony Livestream Test Session and Team Interviews Livestream Contest Livestream Award Ceremony Livestream </description>
+    </item>
+    
+    <item>
+      <title>Activity page updated</title>
+      <link>https://2022.nwerc.eu/news/activities-updated/</link>
+      <pubDate>Mon, 21 Nov 2022 15:00:00 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/activities-updated/</guid>
+      <description>We have updated the activities page. There, you can find an overview of what activities are availble for November 26th. You can indicate your interest for an activity in the form within the last information mail which was sent out on Tuesday the 22nd of November. Contact us if you have not gotten this e-mail.</description>
+    </item>
+    
+    <item>
+      <title>Advice, Hints, and General Information from the NWERC Jury</title>
+      <link>https://2022.nwerc.eu/news/new-jury-advice/</link>
+      <pubDate>Sat, 05 Nov 2022 09:00:00 +0100</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/new-jury-advice/</guid>
+      <description>The NWERC Jury have prepared a document containing general advice. It has information on input and output formatting and how submissions are judged during a contest, as well as tips about interactive problems. It can be found under Jury Advice in the top menu. This advice will be available to you during a contest as a PDF.</description>
+    </item>
+    
+    <item>
+      <title>Registration completed</title>
+      <link>https://2022.nwerc.eu/news/registration-complete/</link>
+      <pubDate>Fri, 04 Nov 2022 09:00:00 +0100</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/registration-complete/</guid>
+      <description>The registration for NWERC 2022 has been completed. There are a total of 140 teams from 61 institutions. A list of all teams can be found on the teams page.</description>
+    </item>
+    
+    <item>
+      <title>Sleeping at TU Delft Campus</title>
+      <link>https://2022.nwerc.eu/news/sleeping-on-campus/</link>
+      <pubDate>Wed, 26 Oct 2022 12:30:00 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/sleeping-on-campus/</guid>
+      <description>We provide 150 sleeping places for free at the TU Delft Campus in a sport hall. This requires you to bring your own sleeping mats/bags and breakfast. You will be able to shower on the site. Entry to the sleeping hall is possible on the following dates:
+Friday night to Saturday morning: from 00:00 until 07:00 Saturday night to Sunday morning: from 22:00 until 07:00 Note that the sports halls will be used during the day, so you will need to clear away your sleeping bags before 07:00 on both days.</description>
+    </item>
+    
+    <item>
+      <title>Call for Runners for NWERC 2022</title>
+      <link>https://2022.nwerc.eu/news/runner/</link>
+      <pubDate>Fri, 30 Sep 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/runner/</guid>
+      <description>For the 2022 edition of NWERC, we are looking for volunteers (runners) to help during the weekend. The NWERC is from Friday the
+25th of November to Sunday the 27th of November. The job of a runner includes helping set up the contest hall, joining participants in activities, and bringing balloons and prints during the contest. If you want to volunteer as runner, you can fill in the form here.</description>
+    </item>
+    
+    <item>
+      <title>New pages added</title>
+      <link>https://2022.nwerc.eu/news/website-updated/</link>
+      <pubDate>Thu, 22 Sep 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/website-updated/</guid>
+      <description>We have added several new pages with information in preparation of the contest.
+Systems Rules Registration Location We also invite coaches to join the NWERC slack. More information on the contact page.</description>
+    </item>
+    
+    <item>
+      <title>Subregional Overview</title>
+      <link>https://2022.nwerc.eu/news/subregionals/</link>
+      <pubDate>Thu, 22 Sep 2022 08:00:00 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/subregionals/</guid>
+      <description>Every year, four subregionals are held to train and select teams for the NWERC. The dates for these events are:
+GCPC (Germany): June 25 NCPC (Nordic region): October 8 BAPC (Benelux region): October 22 UKIEPC (UK and Ireland): October 29 </description>
+    </item>
+    
+    <item>
+      <title>Save the date, NWERC 2022 edition</title>
+      <link>https://2022.nwerc.eu/news/date-official/</link>
+      <pubDate>Mon, 18 Apr 2022 12:52:27 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/date-official/</guid>
+      <description>The 2022 edition of the Northwestern Europe Regional Contest (NWERC) will be held on the 25th of November until the 27th of November 2022. The contest will be held on the campus of the Delft University of Technology. More details on the location and exact schedule will be posted later.</description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://2022.nwerc.eu/schedule/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/activities/</guid>
+      <description>Registration for an activity is possible through the form which can be found in the last information e-mail that was sent out on Tuesday the 22nd of November.
+There are limited capacities for each activity, so full = full. For the canal tours, it is important to be on time at the boat location as the tour boat will leave on time. NB: choosing an activity is optional, you are also free to use the activity afternoon as you see fit and thus not fill in this form.</description>
+    </item>
+    
+    <item>
+      <title>BAPC coach meetings</title>
+      <link>https://2022.nwerc.eu/schedule/coach_meeting_bapc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/coach_meeting_bapc/</guid>
+      <description>Location The BAPC coach meeting takes place in the Auditorium of the Aula Conference Centre. The entrance of hall B is indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Coach Seminar</title>
+      <link>https://2022.nwerc.eu/schedule/seminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/seminar/</guid>
+      <description>The coach seminar will give an update on the latest developments and backgrounds on the World Finals 2022 and 2023, the European Championships and the growth of the NWERC in the future. These points can be discussed further during the subregional and general coach meeting.
+Location The coach seminar take place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.</description>
+    </item>
+    
+    <item>
+      <title>Dinner</title>
+      <link>https://2022.nwerc.eu/schedule/dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drinks</title>
+      <link>https://2022.nwerc.eu/schedule/drinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/drinks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCPC coach meetings</title>
+      <link>https://2022.nwerc.eu/schedule/coach_meeting_gcpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/coach_meeting_gcpc/</guid>
+      <description>Location The GCPC coach meeting takes place in the Auditorium of the Aula Conference Centre. The entrance of hall B is indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>General coach meeting</title>
+      <link>https://2022.nwerc.eu/schedule/coach_meeting_general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/coach_meeting_general/</guid>
+      <description>The general coach meeting takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.</description>
+    </item>
+    
+    <item>
+      <title>Last info speech</title>
+      <link>https://2022.nwerc.eu/schedule/last_info_speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/last_info_speech/</guid>
+      <description>Location The speech takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Late registration</title>
+      <link>https://2022.nwerc.eu/schedule/late_registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/late_registration/</guid>
+      <description>During registration all team members and on-site coaches need to register. You will receive your badge, T-Shirt and goody bag. Also a team picture will be taken.
+Location The registration takes place in the Aula Conference Centre.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Lunch and Company Market</title>
+      <link>https://2022.nwerc.eu/schedule/lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/lunch/</guid>
+      <description>Location The lunch takes place in the Canteen of the Aula Conference Centre. The Canteen is on the ground floor.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>NCPC coach meetings</title>
+      <link>https://2022.nwerc.eu/schedule/coach_meeting_ncpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/coach_meeting_ncpc/</guid>
+      <description>Location The NCPC coach meeting takes place in the Auditorium of the Aula Conference Centre. The entrance of hall A is indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A Test session</title>
+      <link>https://2022.nwerc.eu/schedule/q_a_testsession/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/q_a_testsession/</guid>
+      <description>This Q&amp;amp;A is your chance to ask your last questions to the people of the jury, and the people of the systems.
+Location The Q&amp;amp;A takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://2022.nwerc.eu/schedule/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/registration/</guid>
+      <description>During registration all team members and on-site coaches need to register. You will receive your badge, T-Shirt and goody bag. Also a team picture will be taken.
+Location The registration takes place in the Aula Conference Centre. For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Solutions and award ceremony</title>
+      <link>https://2022.nwerc.eu/schedule/solutions_presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/solutions_presentation/</guid>
+      <description>Here the jury will present the solutions to the problems. After this, the frozen part of the scoreboard is slowly revealed and the winners are announced!
+Location The solutions presentation and award ceremony take place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Test session</title>
+      <link>https://2022.nwerc.eu/schedule/test_session/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/test_session/</guid>
+      <description>During the test session, the contestants will have a chance to test their workstation, and all the software they want to use. For the available systems, see the Systems page.</description>
+    </item>
+    
+    <item>
+      <title>UKIEPC coach meetings</title>
+      <link>https://2022.nwerc.eu/schedule/coach_meeting_ukiepc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/coach_meeting_ukiepc/</guid>
+      <description>Location The UKIEPC coach meeting takes place in the Auditorium of the Aula Conference Centre. The entrance of hall A is indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Walk in</title>
+      <link>https://2022.nwerc.eu/schedule/walk_in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/walk_in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome speech</title>
+      <link>https://2022.nwerc.eu/schedule/welcome_speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.nwerc.eu/schedule/welcome_speech/</guid>
+      <description>Location The speech takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+  </channel>
+</rss>

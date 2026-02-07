@@ -1,0 +1,333 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	margin: 0px;
+	background-color: black;
+	background-image: url('images/benelux.jpg');
+	background-attachment: fixed;
+	color: white;
+}
+
+/*
+	background-repeat: no-repeat;
+	background-position: center center;
+ * Special blocks
+ */
+
+div.logo {
+	/*position: absolute;
+	bottom: 0px;
+	left: 0px;*/
+	width: 200px;
+	text-align: right;
+	background-color: black;	
+	margin-top: 50px;
+}
+
+div.separator {
+	margin-top: 10px;
+	border-top: solid 1px #008ED6;
+}
+
+div.sponsor {
+	text-align: center;
+}
+
+/*
+ * Navigation
+ */
+
+div.nav {
+	position: absolute; /* sterf IE, fixed was best wel fijner*/ 
+	top: 0px;
+	left: 0px;
+	margin: 30px 30px 10px 10px;
+	padding: 0px;
+	color: white;
+}
+
+/*div.nav a:first-letter {
+	color: #008ED6;
+	font-weight: bold;
+	text-decoration: none;
+}*/
+
+div.nav a {
+	border: solid 0px black;
+	border-right: solid 5px #DF580D;
+	color: white;
+	display: block;
+	font-size: 9pt;
+	margin: 0px;
+	padding: 10px;
+	text-decoration: none;
+	text-align: right;
+	width: 180px;
+}
+
+div.nav a:hover:first-letter {
+	color: white;
+	text-decoration: underline;
+}
+
+div.nav a:hover {
+	background-color: #008ED6;
+	border-right: solid 5px #DF580D;
+}
+
+/*
+ * Links
+ */
+
+div.content a:active {
+	color: #DF580D;
+}
+
+div.content a:hover {
+	color: white;
+}
+
+div.content a:link {
+	color: #008ED6;
+}
+
+div.content a:visited {
+	color: #DF580D;
+}
+
+a img {
+	border-width: 0px;
+}
+
+/*
+ * Content (general)
+ */
+
+div.content {
+	margin-left: 200px;
+	margin-right: 15%;
+	padding: 30px;
+	text-align: justify;
+}
+
+div.content div {
+	padding: 10px 0px;
+}
+
+div.title {
+	font-size: 16pt;
+	font-weight: bold;
+	padding-top: 0px!important;
+	padding-bottom: 10px;
+	color: #DF580D;
+	text-decoration: underline;
+	text-align: left;
+	white-space: nowrap;
+}
+
+div.subtitle {
+	font-size: 12pt;
+	font-weight: bold;
+	margin-top: -15px;
+	padding-bottom: 10px;
+	color: #008ED6;
+}
+
+div.header {
+	font-size: 12pt;
+	font-weight: bold;
+	padding-bottom: 10px;
+	color: #008ED6;
+}
+
+ul {
+	list-style: disc;
+}
+
+div.code {
+	font-family: monospace;
+	border: solid 1px white;
+	margin-left: 10px;
+	padding: 10px!important;
+}
+
+/*
+ * Problems
+ */
+
+table.problems {
+	margin: 5px;
+	border-collapse: collapse;
+}
+
+table.problems td {
+	border: solid white;
+	border-width: 1px 0px;
+}
+
+table.problems td, table.problems th {
+	padding: 8px;
+}
+
+/*
+ * Rules
+ */
+
+span.definition {
+	text-decoration: underline;
+}
+
+div.ruletitle {
+	font-size: 10;
+	font-weight: bold;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	color: #008ED6;
+}
+
+div.rule {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * CHipCie Members
+ */
+
+table.members { 
+	border-collapse: separate;
+	border-spacing: 50px 30px;
+	empty-cells: hide;
+	color: black;
+}
+
+table.members td {
+	padding-top: 10px;
+	width: 150px;
+	background-color: #eeeeee;
+	text-align: center;
+}
+
+table.members img {
+	width: 80px;
+}
+
+table.members div.member {
+	font-weight: bold;
+	padding-bottom: 0px;
+}
+
+table.members div.function {
+	padding-top: 0px;
+
+}
+
+/*
+ * Program
+ */
+
+table.program {
+        border-collapse: separate;
+        border-spacing: 50px 10px;
+        empty-cells: hide;
+        color: white;
+}
+
+table.program th {
+	font-weight: bold;
+	color: #008ED6;
+}
+
+/*
+ * Signup
+ */
+
+table.signup {
+	padding-left: 20px;
+}
+
+table.signup td {
+	padding: 5px;
+	vertical-align: top;
+}
+
+table.signup td.desc {
+	width: 200px;
+}
+
+table.signup .input_text {
+	width: 200px;
+}
+
+table.signup textarea {
+	width: 500px;
+	height: 100px;
+}
+
+table.signup textarea, table.signup input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+
+table.signup td.submit {
+	padding-top: 10px;
+	text-align: center;
+}
+
+table.signup td.submit input {
+	width: 100px;
+}
+
+pre.textarea_out {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+
+/*
+ * Results
+ */
+
+table.results td {
+	font-size: 8pt;
+	padding: 3px;
+	height: 25px;
+	white-space: nowrap;
+	border: solid 1px black;
+}
+table.results {
+	border-collapse: collapse;
+}
+
+table.results tr.header td {
+	font-weight: bold;
+	border-width: 0px;
+}
+table.results tr.odd td {
+	background-color: #333333;
+}
+table.results tr.even td {
+	background-color: #444444;
+}
+table.results td.not_app
+{
+        text-align : center;
+        color : black;
+	background-color: #ab5656!important;
+	background-image: url('images/incorrect.png');
+	background-position: right center;
+	background-repeat: no-repeat;
+        width :60;
+}
+table.results td.app
+{
+        text-align : center;
+        color : black;
+	background-color: #69b169!important;
+	background-image: url('images/correct.png');
+	background-position: right center;
+	background-repeat: no-repeat;
+        width : 60;
+}
+table.results td.time {
+	text-align: right;
+}

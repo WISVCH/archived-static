@@ -1,0 +1,104 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin: 0px;
+	background-color: lightblue;
+}
+
+div.nav {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	padding: 0px;
+	border-bottom: solid 1px black;
+	background-color: orange;
+	z-index: 10;
+}
+
+div.logo {
+	position: fixed;
+	opacity: 0.8;
+	background-color: white;
+	top: 0px;
+	right: 5px;
+	height: 100%;
+	border: solid black;
+	border-width: 0px 1px;
+	padding-top: 30px;
+	text-align: right;
+}
+
+div.nav a {
+	text-decoration: none;
+	color: black;
+	font-size: 9pt;
+	padding: 10px 3%;
+	margin: 0px;
+	border: solid 1px transparent;
+}
+
+div.nav a:hover {
+	background-color: #ccccff;
+	border: solid 1px gray;
+}
+
+div.content {
+	margin-top: 20px;
+	margin-right: 200px;
+	padding: 30px;
+	text-align: justify;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+div.content div {
+	padding: 10px 0px;
+}
+
+div.title {
+	font-size: 14pt;
+	font-weight: bold;
+	padding-top: 0px!important;
+	padding-bottom: 10px;
+}
+
+div.subtitle {
+	font-size: 12pt;
+	font-weight: bold;
+	margin-top: -15px;
+	padding-bottom: 10px;
+}
+
+div.separator {
+	margin-top: 10px;
+	border-top: solid 1px gray;
+}
+
+ul {
+	list-style: disc;
+}
+
+table.members { 
+	border-collapse: separate;
+	border-spacing: 50px 30px;
+	empty-cells: hide;
+}
+
+table.members td {
+	padding-top: 10px;
+	width: 150px;
+	text-align: center;
+}
+
+table.members img {
+	width: 80px;
+}
+
+table.members div.member {
+	font-weight: bold;
+	padding-bottom: 0px;
+}
+
+table.members div.function {
+	padding-top: 0px;
+}

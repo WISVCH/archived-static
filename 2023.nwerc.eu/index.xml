@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NWERC 2023</title>
+    <link>https://2023.nwerc.eu/</link>
+    <description>Recent content on NWERC 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>W.I.S.V. &lsquo;Christiaan Huygens&#39;</copyright>
+    <lastBuildDate>Wed, 01 Mar 2023 17:50:27 +0200</lastBuildDate><atom:link href="https://2023.nwerc.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Problems</title>
+      <link>https://2023.nwerc.eu/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/cfp/</guid>
+      <description>We are pleased to announce the Call for Problems (CfP) for the 2023 edition of the NWERC programming contest.
+The date for the contest is the 24th until the 26th of November 2023, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2023 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event.</description>
+    </item>
+    
+    <item>
+      <title>Lunch</title>
+      <link>https://2023.nwerc.eu/schedule/lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/lunch/</guid>
+      <description>Location The lunch takes place in the Canteen of the Aula Conference Centre. The Canteen is on the ground floor.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Contest</title>
+      <link>https://2023.nwerc.eu/contest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/contest/</guid>
+      <description>The Northwestern Europe Regional Contest (NWERC) is a contest in which teams from universities all over the Northwestern part of Europe are served a series of algorithmic problems. The goal of each team is to solve as many problems as possible within the 5 hour time limit. Potential solutions are submitted and corrected by an automated judging system. The team that solves the most problems at the end of the contest qualifies for the ICPC World Finals.</description>
+    </item>
+    
+    <item>
+      <title>Company Market</title>
+      <link>https://2023.nwerc.eu/schedule/company_market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/company_market/</guid>
+      <description>Location The company market takes place on the ground of the Aula Conference Centre.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://2023.nwerc.eu/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/registration/</guid>
+      <description>Update: Registration is now closed.
+Registration will open at the 28th of June and will close on Friday the 3rd of November. Registration will be done through the ICPC system. Teams can be promoted from the subregionals. Teams will only be accepted once the last subregional (29th of October) has taken place.
+Team Admission rules The following rules will be adhered to when accepting teams.
+The maximum number of teams (140) will not be exceeded.</description>
+    </item>
+    
+    <item>
+      <title>Teams</title>
+      <link>https://2023.nwerc.eu/teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/teams/</guid>
+      <description>The following teams are competing in NWERC 2023. The numbers in parentheses represent the location of the team&amp;rsquo;s workstation.
+Aalto University — FINCS-E4595-TAs (20)Good not-so-old days (93) Aarhus University — DNKBrown Bananas (41)Kotlin Supporters (110)KoblingsKaos (144) Brunel University London — GBRIndents are hard (64) Chalmers University of Technology — SWEyescpc (28)🥶 (97)Big W notation (140) Constructor University Bremen — DEUTeam dedebuilding (6)bim bim bam bam (66)destructor college (113) Delft University of Technology — NLDSegfault go BRRRR (5)Coding in the Rain (65)W.</description>
+    </item>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://2023.nwerc.eu/rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/rules/</guid>
+      <description>Update 2 November: It is no longer allowed to replace the provided mouse. You are not allowed to wear a watch during the contest.
+The ICPC regional contest rules can be found at the ICPC regionals website; official ICPC regional rules.
+In addition to the official ICPC regional Rules, the following local rules also apply:
+Team composition A student may compete when eligible according to the official ICPC regional rules, summarized in the 2023-24 ICPC Regionals Eligibility Diagram.</description>
+    </item>
+    
+    <item>
+      <title>Advice, Hints, and General Information from the NWERC Jury</title>
+      <link>https://2023.nwerc.eu/jury-advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/jury-advice/</guid>
+      <description>Your submissions will be run multiple times, on different input files. The order in which the input files are being used is fixed and does not change from one submission to another.
+If your submission is incorrect, the error message you get will be the error that occurred on the first input file on which you failed. E.g. if your submission is prone to crash but also incorrect, your submission may be judged as either &amp;ldquo;Wrong Answer&amp;rdquo; or &amp;ldquo;Run Time Error&amp;rdquo;, depending on which is discovered first.</description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>https://2023.nwerc.eu/systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/systems/</guid>
+      <description>This page describes current plans for the Programming Environment which will be available to each NWERC 2023 team.
+Each team will be provided with one laptop, shared between team members. Each laptop will have an external mouse. The configuration of each laptop will be as follows:
+Hardware The laptop will be a Lenovo ThinkPad E570 and will have the following hardware specifications:
+Intel Core i7 7500U Processor 2 cores, hyperthreading disabled CPU frequency 2.</description>
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>https://2023.nwerc.eu/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/location/</guid>
+      <description>The contest will take place at the Aula Conference Centre.
+To Delft by Car At the A13/E19 between Rotterdam and Den Haag, take exit 10, Delft-Zuid/TU Delft. Follow the Signs TU Delft until you drive on a downward slope until the crossing with the Schoenmakerstraat. Go right on to the Schoenmakerstraat and you have arrived at the campus ring road. Parking on the street is paid on all days (except Sunday) from 12:00 until 24:00.</description>
+    </item>
+    
+    <item>
+      <title>Accommodations</title>
+      <link>https://2023.nwerc.eu/accommodations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/accommodations/</guid>
+      <description>There are many hotels in Delft. Here is a list of possible hotels that are not very expensive and are easy to travel from to the campus.
+The Social Hub Delft Cost: 90-140 euros per night per person Breakfast is possible for 30 euros 20 minutes walk or 5 minutes by bus to contest location Next to Delft station: Van Leeuwenhoekpark 1, 2611 DW Delft More information: https://www.thestudenthotel.com/delft/ Hotel Royal Bridges Cost: 50-100 euros per night per person Breakfast possible for 15 euros 20 minutes walk or 5 minutes by bus to contest location In city centre: Koornmarkt 55-65, 2611 EC Delft More information: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Contest</title>
+      <link>https://2023.nwerc.eu/schedule/contest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/contest/</guid>
+      <description>The contest will take 5 hours, with a score freeze at 14:00.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://2023.nwerc.eu/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/contact/</guid>
+      <description>The organisation can be contacted at contact@2023.nwerc.eu. Companies interested in supporting the contest can contact extern@2023.nwerc.eu.
+NWERC Coach Slack Since a couple of years there is a NWERC Coaches Slack. Coaches are invited to join here for quick access to the organisation for questions.
+Organisation The NWERC 2023 is hosted by the Delft University of Technology and organised by W.I.S.V. &lsquo;Christiaan Huygens&amp;rsquo;.
+CHipCie The CHipCie takes care of the programming contest within Delft and consists of the following people.</description>
+    </item>
+    
+    <item>
+      <title>Last Information</title>
+      <link>https://2023.nwerc.eu/news/last-information/</link>
+      <pubDate>Wed, 22 Nov 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://2023.nwerc.eu/news/last-information/</guid>
+      <description>The 2023 ICPC Northwestern Europe Regional Contest will take place this weekend, and we hope that you and your team are prepared for this great event. Please check for the latest system information and the schedule.
+We want to remind you of the following:
+The contest machines will be laptops, we do not provide you with an external keyboard. It is allowed to bring your own keyboard (only one per team, only simple USB keyboards allowed).</description>
+    </item>
+    
+    <item>
+      <title>Online Spectator Contest</title>
+      <link>https://2023.nwerc.eu/news/spectator-announcement/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://2023.nwerc.eu/news/spectator-announcement/</guid>
+      <description>There will be an online spectator contest again this year. The contest will start at 10:30 CET on Sunday (November 26th, 2023). This is half an hour later than the start of the real contest.
+You can register at https://spectator.nwerc.eu/.</description>
+    </item>
+    
+    <item>
+      <title>Announcing the NWERC 2023 date</title>
+      <link>https://2023.nwerc.eu/news/nwerc-data/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://2023.nwerc.eu/news/nwerc-data/</guid>
+      <description>We are happy to announce that the 2023 edition of the Northwestern Europe Regional Contest (NWERC) will be held from the 24th until the 26th of November. The contest will be hosted this year again by the Delft University of Technology. We are looking forward to welcoming 140 teams to compete for slots for the 2024 ICPC World Finals. More information will be published in the coming months on this website.</description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://2023.nwerc.eu/schedule/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/activities/</guid>
+      <description>NWERC activities The following excursions are available for the 25th of November. There are limited capacities for each activity, so full = full. Registration is possible via the Google Form sent in your e-mail.
+The activities will happen in two rounds.
+In the first round, we are excited to announce two inspiring company talks by our sponsors Huawei and JetBrains. In the second round, you can choose between various relaxing activities in Delft.</description>
+    </item>
+    
+    <item>
+      <title>BAPC coach meetings</title>
+      <link>https://2023.nwerc.eu/schedule/coach_meeting_bapc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/coach_meeting_bapc/</guid>
+      <description>Location The BAPC coach meeting takes place in the Hall A of the Aula Conference Centre. You will be guided to the hall by volunteers from the Auditorium. Please use the elevator to reach the auditorium from the ground floor.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Coach Seminar</title>
+      <link>https://2023.nwerc.eu/schedule/seminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/seminar/</guid>
+      <description>The coach seminar will give an update on the latest developments and backgrounds on the World Finals 2022 and 2023, the European Championships and the growth of the NWERC in the future. These points can be discussed further during the subregional and general coach meeting.
+Location The coach seminar takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.</description>
+    </item>
+    
+    <item>
+      <title>Dinner</title>
+      <link>https://2023.nwerc.eu/schedule/dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drinks</title>
+      <link>https://2023.nwerc.eu/schedule/drinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/drinks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCPC coach meetings</title>
+      <link>https://2023.nwerc.eu/schedule/coach_meeting_gcpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/coach_meeting_gcpc/</guid>
+      <description>Location The GCPC coach meeting takes place in the Hall A of the Aula Conference Centre. You will be guided to the hall by volunteers from the Auditorium. Please use the elevator to reach the auditorium from the ground floor.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>General coach meeting</title>
+      <link>https://2023.nwerc.eu/schedule/coach_meeting_general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/coach_meeting_general/</guid>
+      <description>The general coach meeting takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs. Please use the elevator to reach the auditorium from the ground floor.</description>
+    </item>
+    
+    <item>
+      <title>Last info speech</title>
+      <link>https://2023.nwerc.eu/schedule/last_info_speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/last_info_speech/</guid>
+      <description>Location The speech takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Late registration</title>
+      <link>https://2023.nwerc.eu/schedule/late_registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/late_registration/</guid>
+      <description>During registration all team members and on-site coaches need to register. You will receive your badge, T-Shirt and goody bag. Also a team picture will be taken.
+Location The registration takes place in the Aula Conference Centre.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>NCPC coach meetings</title>
+      <link>https://2023.nwerc.eu/schedule/coach_meeting_ncpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/coach_meeting_ncpc/</guid>
+      <description>Location The NCPC coach meeting takes place in Hall B of the Aula Conference Centre. You will be guided to the hall by volunteers from the Auditorium. Please use the elevator to reach the auditorium from the ground floor.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A Test session</title>
+      <link>https://2023.nwerc.eu/schedule/q_a_testsession/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/q_a_testsession/</guid>
+      <description>This Q&amp;amp;A is your chance to ask your last questions to the people of the jury, and the people of the systems.
+Location The Q&amp;amp;A takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://2023.nwerc.eu/schedule/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/registration/</guid>
+      <description>During registration all team members and on-site coaches need to register. You will receive your badge, T-Shirt and goody bag. Also a team picture will be taken.
+Location The registration takes place in the Aula Conference Centre. For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Solutions and award ceremony</title>
+      <link>https://2023.nwerc.eu/schedule/solutions_presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/solutions_presentation/</guid>
+      <description>Here the jury will present the solutions to the problems. After this, the frozen part of the scoreboard is slowly revealed and the winners are announced!
+Location The solutions presentation and award ceremony take place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Test session</title>
+      <link>https://2023.nwerc.eu/schedule/test_session/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/test_session/</guid>
+      <description>During the test session, the contestants will have a chance to test their workstation, and all the software they want to use.</description>
+    </item>
+    
+    <item>
+      <title>UKIEPC coach meetings</title>
+      <link>https://2023.nwerc.eu/schedule/coach_meeting_ukiepc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/coach_meeting_ukiepc/</guid>
+      <description>Location The UKIEPC coach meeting takes place in Hall B of the Aula Conference Centre. You will be guided to the hall by volunteers from the Auditorium. Please use the elevator to reach the auditorium from the ground floor.
+For directions, see the Location page.</description>
+    </item>
+    
+    <item>
+      <title>Walk in</title>
+      <link>https://2023.nwerc.eu/schedule/walk_in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/walk_in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome speech</title>
+      <link>https://2023.nwerc.eu/schedule/welcome_speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.nwerc.eu/schedule/welcome_speech/</guid>
+      <description>Location The speech takes place in the Auditorium of the Aula Conference Centre. The entrance of the Auditorium is on the top floor, and indicated on the signs.
+For directions, see the Location page.</description>
+    </item>
+    
+  </channel>
+</rss>

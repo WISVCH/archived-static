@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on NWERC 2022</title>
+    <link>https://2022.nwerc.eu/tags/news/</link>
+    <description>Recent content in news on NWERC 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>W.I.S.V. &lsquo;Christiaan Huygens&#39;</copyright>
+    <lastBuildDate>Fri, 30 Sep 2022 09:00:00 +0200</lastBuildDate><atom:link href="https://2022.nwerc.eu/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Runners for NWERC 2022</title>
+      <link>https://2022.nwerc.eu/news/runner/</link>
+      <pubDate>Fri, 30 Sep 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://2022.nwerc.eu/news/runner/</guid>
+      <description>For the 2022 edition of NWERC, we are looking for volunteers (runners) to help during the weekend. The NWERC is from Friday the
+25th of November to Sunday the 27th of November. The job of a runner includes helping set up the contest hall, joining participants in activities, and bringing balloons and prints during the contest. If you want to volunteer as runner, you can fill in the form here.</description>
+    </item>
+    
+  </channel>
+</rss>

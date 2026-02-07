@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NWERC 2024</title><link>https://2024.nwerc.eu/</link><description>Recent content on NWERC 2024</description><generator>Hugo</generator><language>en-us</language><copyright>W.I.S.V. &lsquo;Christiaan Huygens&rsquo;</copyright><lastBuildDate>Wed, 27 Nov 2024 00:14:00 +0100</lastBuildDate><atom:link href="https://2024.nwerc.eu/index.xml" rel="self" type="application/rss+xml"/><item><title>Call for Problems</title><link>https://2024.nwerc.eu/cfp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/cfp/</guid><description>&lt;p>We are pleased to announce the Call for Problems (CfP) for the 2024 edition of the NWERC programming contest.&lt;/p>
+&lt;p>The date for the contest is the 22th until the 24th of November 2024, and will take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2024 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!&lt;/p></description></item><item><title>Digital Booklet</title><link>https://2024.nwerc.eu/booklet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/booklet/</guid><description>&lt;h2 id="foreword">Foreword&lt;/h2>
+&lt;p class="booklet-side-picture">&lt;img src="https://2024.nwerc.eu/nadyne.webp" alt="Constest Director Nadyne">&lt;/p>
+&lt;p class="booklet-side-picture">Dear contestants, coaches and all other programming enthusiasts,&lt;/p>
+&lt;p>Welcome to NWERC 2024!
+We are very excited to have you here and we are looking forward to this fun-filled weekend.
+NWERC is hosted this year again in Delft at the Delft University of Technology.
+We hope that you not only have an amazing time at the contest, but that you will also get to know Delft a little bit.&lt;/p></description></item><item><title>Contest</title><link>https://2024.nwerc.eu/contest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/contest/</guid><description>&lt;p>The Northwestern Europe Regional Contest (NWERC) is a contest in which teams from universities all over the Northwestern part of Europe are served a series of algorithmic problems. The goal of each team is to solve as many problems as possible within the 5 hour time limit. Potential solutions are submitted and corrected by an automated judging system. The team that solves the most problems at the end of the contest qualifies for the ICPC World Finals.&lt;/p></description></item><item><title>Lunch</title><link>https://2024.nwerc.eu/schedule/lunch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/lunch/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The lunch takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Company market</title><link>https://2024.nwerc.eu/schedule/company_market/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/company_market/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The company market takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Registration</title><link>https://2024.nwerc.eu/registration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/registration/</guid><description>&lt;p>Registration will open at the 4th of September and will close on &lt;strong>Friday the 1st of November&lt;/strong>. Registration will be done through
+the &lt;a href="https://icpc.global/regionals/finder/Northwestern-Europe-2025">ICPC system&lt;/a>.
+Teams can be promoted from the subregionals.
+Teams will only be accepted once the last subregional (26th of October) has taken place.&lt;/p>
+&lt;h2 id="team-admission-rules">Team Admission rules&lt;/h2>
+&lt;p>The following rules will be adhered to when accepting teams.&lt;/p>
+&lt;ul>
+&lt;li>The maximum number of teams (80) will not be exceeded.&lt;/li>
+&lt;li>Every institution will be guaranteed one team.&lt;/li>
+&lt;li>Second teams will be accepted based on subregional results.
+&lt;ul>
+&lt;li>The second teams will awarded round-robin between each subregional based on the ranking of the second team of the institution.&lt;/li>
+&lt;li>The last number of slots (when 3 or less slots are left) will be awarded to the institution with the best ranking on the subregional scoreboard of their second team, max one per subregional.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>No third teams will be accepted&lt;/li>
+&lt;/ul></description></item><item><title>Teams</title><link>https://2024.nwerc.eu/teams/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/teams/</guid><description>&lt;p>The following teams are competing in NWERC 2024. The numbers in parentheses represent the location of the team&amp;rsquo;s workstation.&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7431.png" alt="7431" title="Aalborg University">&lt;/td>
+ &lt;td>Aalborg University — DNK&lt;ul>&lt;li>AAU Seebach Warriors (68)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/4786.png" alt="4786" title="Aalto University">&lt;/td>
+ &lt;td>Aalto University — FIN&lt;ul>&lt;li>Aalto CS-A1140 Team 2 (38)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7.png" alt="7" title="Aarhus University">&lt;/td>
+ &lt;td>Aarhus University — DNK&lt;ul>&lt;li>Pizza Driven Development (60)&lt;/li>&lt;li>Low Cohesion (80)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/175.png" alt="175" title="Bonn University">&lt;/td>
+ &lt;td>Bonn University — DEU&lt;ul>&lt;li>bo(n^2) (70)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7464.png" alt="7464" title="Brunel University London">&lt;/td>
+ &lt;td>Brunel University London — GBR&lt;ul>&lt;li>chr (sum(range(ord(min(str(not())))))) (63)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/3397.png" alt="3397" title="Chalmers University of Technology">&lt;/td>
+ &lt;td>Chalmers University of Technology — SWE&lt;ul>&lt;li>🥶 (1)&lt;/li>&lt;li>//assert(dominance) (82)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/21967.png" alt="21967" title="Constructor University Bremen">&lt;/td>
+ &lt;td>Constructor University Bremen — DEU&lt;ul>&lt;li>1st year (with a catch) (53)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/367.png" alt="367" title="Delft University of Technology">&lt;/td>
+ &lt;td>Delft University of Technology — NLD&lt;ul>&lt;li>Segfault go BRRRR (13)&lt;/li>&lt;li>They cheated ^^^^^^^^^^^^^^^^^^^^ (74)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/452.png" alt="452" title="Eindhoven University of Technology">&lt;/td>
+ &lt;td>Eindhoven University of Technology — NLD&lt;ul>&lt;li>Rubber Duckie Debuggers (24)&lt;/li>&lt;li>FC Puddlebee (29)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/6557.png" alt="6557" title="Frankfurt University of Applied Sciences">&lt;/td>
+ &lt;td>Frankfurt University of Applied Sciences — DEU&lt;ul>&lt;li>FraUAS-DCoders (15)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/573.png" alt="573" title="Friedrich-Alexander-University Erlangen-Nuremberg">&lt;/td>
+ &lt;td>Friedrich-Alexander-University Erlangen-Nuremberg — DEU&lt;ul>&lt;li>ᖴᗩᑌst ᖴᗩᑌrier Transᖴᗩᑌrm (9)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/8170.png" alt="8170" title="Hasso Plattner Institute">&lt;/td>
+ &lt;td>Hasso Plattner Institute — DEU&lt;ul>&lt;li>Seems to be O(k!) (40)&lt;/li>&lt;li>ChillMorphiumUSER (85)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/20052.png" alt="20052" title="Heinrich-Heine-Universität Düsseldorf">&lt;/td>
+ &lt;td>Heinrich-Heine-Universität Düsseldorf — DEU&lt;ul>&lt;li>PaidForWinRAR (73)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/3678.png" alt="3678" title="Imperial College London">&lt;/td>
+ &lt;td>Imperial College London — GBR&lt;ul>&lt;li>Carton Road (2)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/6864.png" alt="6864" title="IT University of Copenhagen">&lt;/td>
+ &lt;td>IT University of Copenhagen — DNK&lt;ul>&lt;li>Ctrl Alt Elite (75)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/23885.png" alt="23885" title="Jönköping University">&lt;/td>
+ &lt;td>Jönköping University — SWE&lt;ul>&lt;li>Rude Goblins (44)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2272.png" alt="2272" title="Karlsruhe Institute of Technology">&lt;/td>
+ &lt;td>Karlsruhe Institute of Technology — DEU&lt;ul>&lt;li>Kindergarten Timelimit (27)&lt;/li>&lt;li>Infinite Loopers (81)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/980.png" alt="980" title="Kaunas University of Technology">&lt;/td>
+ &lt;td>Kaunas University of Technology — LTU&lt;ul>&lt;li>KTU#1 (14)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1039.png" alt="1039" title="KTH - Royal Institute of Technology">&lt;/td>
+ &lt;td>KTH - Royal Institute of Technology — SWE&lt;ul>&lt;li>grinders (16)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/11103.png" alt="11103" title="KU Leuven">&lt;/td>
+ &lt;td>KU Leuven — BEL&lt;ul>&lt;li>Les écureuils (8)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1088.png" alt="1088" title="Leiden University">&lt;/td>
+ &lt;td>Leiden University — NLD&lt;ul>&lt;li>Wormholes (62)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1097.png" alt="1097" title="Linköping University">&lt;/td>
+ &lt;td>Linköping University — SWE&lt;ul>&lt;li>WTF IS A KILOMETER? (71)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/26092.png" alt="26092" title="Liverpool Hope University">&lt;/td>
+ &lt;td>Liverpool Hope University — GBR&lt;ul>&lt;li>ChosenByBrett &amp;lt;3 (69)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1112.png" alt="1112" title="Lund University">&lt;/td>
+ &lt;td>Lund University — SWE&lt;ul>&lt;li>Noobs@LTH (56)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/10500.png" alt="10500" title="Maastricht University">&lt;/td>
+ &lt;td>Maastricht University — NLD&lt;ul>&lt;li>aMUsed (31)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7488.png" alt="7488" title="Maynooth University">&lt;/td>
+ &lt;td>Maynooth University — IRL&lt;ul>&lt;li>The Hamiltonians (66)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1362.png" alt="1362" title="Norwegian University of Science and Technology">&lt;/td>
+ &lt;td>Norwegian University of Science and Technology — NOR&lt;ul>&lt;li>Runtime Terror (19)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/8002.png" alt="8002" title="Radboud University">&lt;/td>
+ &lt;td>Radboud University — NLD&lt;ul>&lt;li>De Wasberen (48)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/3403.png" alt="3403" title="Reykjavik University ">&lt;/td>
+ &lt;td>Reykjavik University — ISL&lt;ul>&lt;li>Hakk og Spaghetti (50)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1534.png" alt="1534" title="Rijksuniversiteit Groningen">&lt;/td>
+ &lt;td>Rijksuniversiteit Groningen — NLD&lt;ul>&lt;li> A random triennial (55)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/11352.png" alt="11352" title="Ruhr University Bochum">&lt;/td>
+ &lt;td>Ruhr University Bochum — DEU&lt;ul>&lt;li>RUBocop (51)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/3787.png" alt="3787" title="RWTH Aachen University">&lt;/td>
+ &lt;td>RWTH Aachen University — DEU&lt;ul>&lt;li>Oecher (4)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2267.png" alt="2267" title="Saarland University">&lt;/td>
+ &lt;td>Saarland University — DEU&lt;ul>&lt;li>addicted (òvó) (59)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/11054.png" alt="11054" title="Tallinn University of Technology">&lt;/td>
+ &lt;td>Tallinn University of Technology — EST&lt;ul>&lt;li>assume_aligned (21)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/4278.png" alt="4278" title="Technical University of Denmark">&lt;/td>
+ &lt;td>Technical University of Denmark — DNK&lt;ul>&lt;li>Lord of the Graphs (64)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1917.png" alt="1917" title="Technische Universität München">&lt;/td>
+ &lt;td>Technische Universität München — DEU&lt;ul>&lt;li>TriTUMvirate (47)&lt;/li>&lt;li>VikTUM Krum (84)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/33.png" alt="33" title="Ulm University">&lt;/td>
+ &lt;td>Ulm University — DEU&lt;ul>&lt;li>Clueless Computer Club (32)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2274.png" alt="2274" title="Universität Rostock">&lt;/td>
+ &lt;td>Universität Rostock — DEU&lt;ul>&lt;li>with_prolog() (20)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/1154.png" alt="1154" title="Universität zu Lübeck">&lt;/td>
+ &lt;td>Universität zu Lübeck — DEU&lt;ul>&lt;li>geoMetry And inteRaCtivE probLem enjoyers (30)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/9858.png" alt="9858" title="UCLouvain">&lt;/td>
+ &lt;td>UCLouvain — BEL&lt;ul>&lt;li>Binary Church (22)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/8311.png" alt="8311" title="Université de Mons">&lt;/td>
+ &lt;td>Université de Mons — BEL&lt;ul>&lt;li>CPUMONS (11)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2284.png" alt="2284" title="Universiteit van Amsterdam">&lt;/td>
+ &lt;td>Universiteit van Amsterdam — NLD&lt;ul>&lt;li>Friday volleyball (57)&lt;/li>&lt;li>ADA Refactor (78)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2292.png" alt="2292" title="University College Cork">&lt;/td>
+ &lt;td>University College Cork — IRL&lt;ul>&lt;li>The One Musketeer (65)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7006.png" alt="7006" title="University College London">&lt;/td>
+ &lt;td>University College London — GBR&lt;ul>&lt;li>UCL (72)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/5541.png" alt="5541" title="University of Bath">&lt;/td>
+ &lt;td>University of Bath — GBR&lt;ul>&lt;li>Bathwater (41)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2320.png" alt="2320" title="University of Bergen">&lt;/td>
+ &lt;td>University of Bergen — NOR&lt;ul>&lt;li> youtu.be/dQw4w9WgXcQ (26)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/8317.png" alt="8317" title="University of Bristol">&lt;/td>
+ &lt;td>University of Bristol — GBR&lt;ul>&lt;li>Grzegorz Brzęczyszczykiewicz brzmi w trzcinie (28)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2343.png" alt="2343" title="University of Cambridge">&lt;/td>
+ &lt;td>University of Cambridge — GBR&lt;ul>&lt;li>Unity (52)&lt;/li>&lt;li>sushi warriors (77)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2357.png" alt="2357" title="University of Copenhagen">&lt;/td>
+ &lt;td>University of Copenhagen — DNK&lt;ul>&lt;li>3 little 3 late (10)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/5784.png" alt="5784" title="University of Edinburgh">&lt;/td>
+ &lt;td>University of Edinburgh — GBR&lt;ul>&lt;li>tlED (35)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/6940.png" alt="6940" title="University of Glasgow">&lt;/td>
+ &lt;td>University of Glasgow — GBR&lt;ul>&lt;li>Blåhajar (17)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7264.png" alt="7264" title="University of Göttingen">&lt;/td>
+ &lt;td>University of Göttingen — DEU&lt;ul>&lt;li>GAUEINS (5)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7887.png" alt="7887" title="University of Iceland">&lt;/td>
+ &lt;td>University of Iceland — ISL&lt;ul>&lt;li>Codebusters (7)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/14148.png" alt="14148" title="University of Leeds">&lt;/td>
+ &lt;td>University of Leeds — GBR&lt;ul>&lt;li>LeedCode (43)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/6817.png" alt="6817" title="University of Liverpool">&lt;/td>
+ &lt;td>University of Liverpool — GBR&lt;ul>&lt;li>TUO_ABMAM (33)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/13859.png" alt="13859" title="University of Luxembourg">&lt;/td>
+ &lt;td>University of Luxembourg — LUX&lt;ul>&lt;li>Kamicoders (37)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/3749.png" alt="3749" title="University of Nottingham">&lt;/td>
+ &lt;td>University of Nottingham — GBR&lt;ul>&lt;li>Kernel (18)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2467.png" alt="2467" title="University of Oslo">&lt;/td>
+ &lt;td>University of Oslo — NOR&lt;ul>&lt;li>Balloon Boys (46)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/3620.png" alt="3620" title="University of Oxford">&lt;/td>
+ &lt;td>University of Oxford — GBR&lt;ul>&lt;li>placeholder (25)&lt;/li>&lt;li>Test2 (83)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/8102.png" alt="8102" title="University of Passau">&lt;/td>
+ &lt;td>University of Passau — DEU&lt;ul>&lt;li>3-Flüssenetzwerk (42)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/6859.png" alt="6859" title="University of Southampton">&lt;/td>
+ &lt;td>University of Southampton — GBR&lt;ul>&lt;li>Idontknowwhatimdoingpleasehelpme (6)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7918.png" alt="7918" title="University of St Andrews">&lt;/td>
+ &lt;td>University of St Andrews — GBR&lt;ul>&lt;li>InsertCustomName (54)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2523.png" alt="2523" title="University of Sussex">&lt;/td>
+ &lt;td>University of Sussex — GBR&lt;ul>&lt;li>:(){ :|:&amp;amp; };: (86)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2526.png" alt="2526" title="University of Tartu">&lt;/td>
+ &lt;td>University of Tartu — EST&lt;ul>&lt;li>Bubblegum Bitset (36)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2561.png" alt="2561" title="University of Twente">&lt;/td>
+ &lt;td>University of Twente — NLD&lt;ul>&lt;li>Gaming Tesseract (39)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/6929.png" alt="6929" title="University of Warwick">&lt;/td>
+ &lt;td>University of Warwick — GBR&lt;ul>&lt;li>We don&amp;rsquo;t locally test (61)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2625.png" alt="2625" title="Utrecht University">&lt;/td>
+ &lt;td>Utrecht University — NLD&lt;ul>&lt;li>Team Biem (49)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/7477.png" alt="7477" title="Vilnius Gediminas Technical University">&lt;/td>
+ &lt;td>Vilnius Gediminas Technical University — LTU&lt;ul>&lt;li>VILNIUS TECH (67)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2643.png" alt="2643" title="Vilnius University">&lt;/td>
+ &lt;td>Vilnius University — LTU&lt;ul>&lt;li>Hope It Passes (76)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/2664.png" alt="2664" title="Vrije Universiteit">&lt;/td>
+ &lt;td>Vrije Universiteit — NLD&lt;ul>&lt;li>(╯°□°)╯ (⊙＿⊙&amp;rsquo;) (■_■&amp;ndash;) (3)&lt;/li>&lt;/ul>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;h3>Company teams&lt;/h3>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/C-23.png" alt="C-23" title="Jetbrains">&lt;/td>
+ &lt;td>JetBrains Student Team (12)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/C-8.png" alt="C-8" title="ORTEC">&lt;/td>
+ &lt;td>Ortec (23)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/C-2.png" alt="C-2" title="ASML">&lt;/td>
+ &lt;td>ASML (34)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/C-7.png" alt="C-7" title="IMC Trading">&lt;/td>
+ &lt;td>IMC Trading (45)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;img src="https://2024.nwerc.eu/logo/C-25.png" alt="C-25" title="Jump Trading">&lt;/td>
+ &lt;td>Jump Trading (79)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Rules</title><link>https://2024.nwerc.eu/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/rules/</guid><description>&lt;p>Update 04 September: Add eligibilty diagram and section about Conduct during contest.&lt;/p>
+&lt;p>Update 30 October: Allow bringing unmodified liquid containers to the contest floor on Sunday.&lt;/p>
+&lt;hr>
+&lt;p>The ICPC regional contest rules can be found at the ICPC regionals website; &lt;a href="https://icpc.global/regionals/rules">official ICPC regional rules&lt;/a>.&lt;/p>
+&lt;p>In addition to the official ICPC regional Rules, the following local rules also apply:&lt;/p>
+&lt;h2 id="team-composition">Team composition&lt;/h2>
+&lt;p>A student may compete when eligible according to the &lt;a href="https://icpc.global/regionals/rules">official ICPC regional rules&lt;/a> summarized in the &lt;a href="https://drive.google.com/file/d/1cFXF7ZKNP72ZZrq3yVIrREdk-snse1aX/view">2024-25 ICPC Regionals Eligibility Diagram&lt;/a>.&lt;/p></description></item><item><title>Advice, Hints, and General Information from the NWERC Jury</title><link>https://2024.nwerc.eu/jury-advice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/jury-advice/</guid><description>&lt;p>This page will be available on your desktop as &lt;a href="https://2024.nwerc.eu/jury-advice.pdf">.pdf&lt;/a>.&lt;/p>
+&lt;p>Update 2024-11-19: Add that sample outputs will be visible in DOMjudge.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Your submissions will be run multiple times,
+on different input files.
+The order in which the input files are being used is fixed
+and does not change from one submission to another.&lt;/p>
+&lt;p>If your submission is incorrect,
+the error message you get will be the error that occurred
+on the first input file on which you failed.
+E.g. if your submission is prone to crash but also incorrect,
+your submission may be judged as either &amp;ldquo;Wrong Answer&amp;rdquo; or &amp;ldquo;Run Time Error&amp;rdquo;,
+depending on which is discovered first.&lt;/p></description></item><item><title>Systems</title><link>https://2024.nwerc.eu/systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/systems/</guid><description>&lt;div class="fr tc w-25 ml1">
+ &lt;a href="https://2024.nwerc.eu/workspace.jpg">
+ &lt;img src="https://2024.nwerc.eu/workspace-small.webp" alt="A picture of the workspace available to each NWERC 2024. Picture taken during the Delft Algorithm Programming Contest (DAPC) 2024." />
+ &lt;i class="ts" style="font-size:75%">Click to enlarge&lt;/i>
+ &lt;/a>
+&lt;/div>
+&lt;p>This page describes current plans for the programming environment which will be available to each NWERC 2024 team.
+&lt;strong>Please note that these plans are subject to change.&lt;/strong>&lt;/p>
+&lt;p>Each team will have access to one workstation, shared between team members.
+A photo of the available workspace, including the provided keyboard and mouse,
+can be seen on the right.&lt;/p></description></item><item><title>Location</title><link>https://2024.nwerc.eu/location/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/location/</guid><description>&lt;p>The contest will take place at &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a> at the Cornelis Drebbelweg.&lt;/p>
+&lt;h2 id="to-delft-by-car">To Delft by Car&lt;/h2>
+&lt;ul>
+&lt;li>At the A13/E19 between Rotterdam and Den Haag, take exit 10, Delft-Zuid/TU Delft.&lt;/li>
+&lt;li>Follow the Signs TU Delft until you drive on a downward slope until the crossing with the Schoemakerstraat.&lt;/li>
+&lt;li>Go &lt;em>left&lt;/em> on to the Schoemakerstraat and you have arrived at the campus ring road.&lt;/li>
+&lt;li>Follow the signs P5&lt;/li>
+&lt;/ul>
+&lt;p>Parking on the street is paid on all days (except Sunday) from 12:00 until 24:00.
+At campus parking locations, parking is free between Friday 18:00 and Monday 08:00.
+The six large campus parking locations are well signposted on the campus ring road.
+Recommended campus parking location is &lt;a href="https://map.tudelftcampus.nl/poi/p-rotterdamseweg/">P5 Rotterdamseweg&lt;/a> (navigation address Cornelis Drebbelweg 1, Delft)&lt;/p></description></item><item><title>Accommodations</title><link>https://2024.nwerc.eu/accommodations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/accommodations/</guid><description>&lt;p>There are many hotels in Delft. This year we arranged for two hotels with discounted rates.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://www.ibisstylesdelftcity.nl/en/">Ibis Styles Delft City Center&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Breakfast possible starting from 17 euros&lt;/li>
+&lt;li>25 minutes walk or 5 minutes by bus to contest location&lt;/li>
+&lt;li>&lt;a href="https://maps.app.goo.gl/tqZDyXa3TkKufp1m7">Next to Delft station&lt;/a>&lt;/li>
+&lt;li>Book with discount &lt;a href="https://businesstravel.accor.com/booking/advanced-search/index.en.shtml?identification.reserverType=SC&amp;amp;identification.reserverId=SCP4293791&amp;amp;identification.reserverContract=TU454NL869">here&lt;/a> (search for Delft)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://westcordhotels.nl/hotel/hotel-delft/">Westcord Hotel&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Breakfast is possible starting from 21 euros&lt;/li>
+&lt;li>30 minutes walk to contest location or 8-minute drive&lt;/li>
+&lt;li>&lt;a href="https://maps.app.goo.gl/3oqQyVgktJigWo5b9">Next to the highway A13&lt;/a>&lt;/li>
+&lt;li>Book with discount &lt;a href="https://app.mews.com/distributor/09d23049-7a54-4828-a123-ab9700c20dde?mewsVoucherCode=TUDELFT">here&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="other-hotels">Other Hotels&lt;/h2>
+&lt;p>Here is a list of possible hotels that are not very
+expensive and are easy to travel from to the campus.&lt;/p></description></item><item><title>Contest</title><link>https://2024.nwerc.eu/schedule/contest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/contest/</guid><description>&lt;p>The contest will take 5 hours, with a score freeze at 14:00.&lt;/p>
+&lt;p>The contest halls are located on the ground floor.&lt;/p></description></item><item><title>Contact</title><link>https://2024.nwerc.eu/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/contact/</guid><description>&lt;p>The organisation can be contacted at &lt;a href="mailto:contact@2024.nwerc.eu">contact@2024.nwerc.eu&lt;/a>. Companies interested in supporting the contest can contact &lt;a href="mailto:extern@2024.nwerc.eu">extern@2024.nwerc.eu&lt;/a>.&lt;/p>
+&lt;h1 id="nwerc-coach-slack">NWERC Coach Slack&lt;/h1>
+&lt;p>Since a couple of years, there is a NWERC Coaches Slack. Coaches are invited to join &lt;a href="https://nwerc-icpc.slack.com/join/shared_invite/zt-1ggf2uot2-SVwK9k29~xfwKZaZT0Vw6Q">here&lt;/a>
+for quick access to the organisation for questions.&lt;/p>
+&lt;h1 id="organisation">Organisation&lt;/h1>
+&lt;p>The NWERC 2024 is hosted by the &lt;a href="https://www.tudelft.nl">Delft University of Technology&lt;/a> and organised by the &lt;a href="https://chipcie.wisv.ch/">CHipCie&lt;/a> committee of study association &lt;a href="https://ch.tudelft.nl">W.I.S.V. &lsquo;Christiaan Huygens&amp;rsquo;&lt;/a>.&lt;/p>
+&lt;h1 id="chipcie">CHipCie&lt;/h1>
+&lt;p>The CHipCie takes care of the programming contest within Delft and consists of the following people.&lt;/p></description></item><item><title>Conclusion of NWERC</title><link>https://2024.nwerc.eu/news/nwerc-conclusion/</link><pubDate>Wed, 27 Nov 2024 00:14:00 +0100</pubDate><guid>https://2024.nwerc.eu/news/nwerc-conclusion/</guid><description>&lt;p>The NWERC 2024 has concluded. Congratulations to the champion, &lt;strong>Kindergarten Timelimit&lt;/strong>, from Karlsruhe Institute of Technology.&lt;/p>
+&lt;p>The following teams have qualified for the ICPC World Finals 2025:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Kindergarten Timelimit&lt;/strong> (Karlsruhe Institute of Technology)&lt;/li>
+&lt;li>&lt;strong>Segfault go BRRRR&lt;/strong> (Delft University of Technology)&lt;/li>
+&lt;li>&lt;strong>Seems to be O(k!)&lt;/strong> (Hasso Plattner Institute)&lt;/li>
+&lt;/ol>
+&lt;p>Additionally, the following teams have qualified for the &lt;a href="https://euc.icpc.global">Europe Championship 2025 in Porto&lt;/a>:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Kindergarten Timelimit&lt;/strong> (Karlsruhe Institute of Technology)&lt;/li>
+&lt;li>&lt;strong>Segfault go BRRRR&lt;/strong> (Delft University of Technology)&lt;/li>
+&lt;li>&lt;strong>Seems to be O(k!)&lt;/strong> (Hasso Plattner Institute)&lt;/li>
+&lt;li>&lt;strong>Pizza Driven Development&lt;/strong> (Aarhus University)&lt;/li>
+&lt;li>&lt;strong>placeholder&lt;/strong> (University of Oxford)&lt;/li>
+&lt;li>&lt;strong>Oecher&lt;/strong> (RWTH Aachen University)&lt;/li>
+&lt;li>&lt;strong>Bubblegum Bitset&lt;/strong> (University of Tartu)&lt;/li>
+&lt;li>&lt;strong>Friday Volleyball&lt;/strong> (University of Amsterdam)&lt;/li>
+&lt;li>&lt;strong>TriTUMvirate&lt;/strong> (Technische Universität München)&lt;/li>
+&lt;li>&lt;strong>Team Biem&lt;/strong> (Utrecht University)&lt;/li>
+&lt;li>&lt;strong>Unity&lt;/strong> (University of Cambridge)&lt;/li>
+&lt;li>&lt;strong>🥶&lt;/strong> (Chalmers University of Technology)&lt;/li>
+&lt;li>&lt;strong>addicted (òvó)&lt;/strong> (Saarland University)&lt;/li>
+&lt;/ol>
+&lt;p>We apologize for mistakenly announcing during the Award Ceremony that team &lt;strong>Test2&lt;/strong> (Oxford) had qualified for the EUC. Due to the rule that only one team per institution can advance, the team &lt;strong>addicted (òvó)&lt;/strong> from Saarland University has qualified instead.&lt;/p></description></item><item><title>Online Spectator Contest</title><link>https://2024.nwerc.eu/news/spectator-announcement/</link><pubDate>Thu, 21 Nov 2024 09:00:00 +0100</pubDate><guid>https://2024.nwerc.eu/news/spectator-announcement/</guid><description>&lt;p>There will be an online spectator contest again this year.
+The main contest will start at 10:30 CET on Sunday (November 24th, 2024).
+This is half an hour later than the start of the real contest.
+The test session on Saturday will also be available on the online spectator website.&lt;/p>
+&lt;p>You can register at &lt;a href="https://spectator.nwerc.eu/">https://spectator.nwerc.eu/&lt;/a> once the website is live, this will probably be on Friday.&lt;/p></description></item><item><title>Last Information</title><link>https://2024.nwerc.eu/news/nwerc-last-info/</link><pubDate>Thu, 21 Nov 2024 00:14:00 +0100</pubDate><guid>https://2024.nwerc.eu/news/nwerc-last-info/</guid><description>&lt;p>The 2024 ICPC Northwestern Europe Regional Contest will take place this weekend, and we hope that you and your team are
+prepared for this great event. Please check the pages for the &lt;a href="https://2024.nwerc.eu/systems">latest system information&lt;/a> and the
+&lt;a href="https://2024.nwerc.eu/schedule">schedule&lt;/a>.&lt;/p>
+&lt;p>We want to remind you of the following:&lt;/p>
+&lt;ul>
+&lt;li>The contest machines will be desktops. We do not allow you to replace the keyboard or mouse.&lt;/li>
+&lt;li>During the contest, you are only allowed to use your Team Reference Document (TRD) as reference material. You may
+bring three identical copies of the document per team, clearly marked with the university and team name. For
+specifications on the TRD, please check &lt;a href="https://2024.nwerc.eu/booklet">the online booklet&lt;/a>. Your TRD should be handed in at registration. It is not
+possible to print the TRD at the contest site.&lt;/li>
+&lt;li>This year there will be no water bottle in the goody bag. We advise you to bring your own refillable water bottle. The
+water bottles can be filled at all water taps. The water from Dutch water taps can be drunk safely.&lt;/li>
+&lt;li>We will not be providing perishable cups this year. You will receive a mug in your goody bag to use during the
+weekend. If you wish, you can also bring your own travel mug.&lt;/li>
+&lt;li>Please be sure to bring everything you want to use during the contest, including mascots and snacks, on Saturday to
+the test session. You are not allowed to bring anything on Sunday, except unmodified liquid containers.&lt;/li>
+&lt;/ul>
+&lt;p>The program booklet will be online this year. It contains a lot of useful information about the contest and the
+companies making this contest possible. You can read the booklet &lt;a href="https://2024.nwerc.eu/booklet">here&lt;/a>.&lt;/p></description></item><item><title>Announcing the NWERC 2024 lit(e) date</title><link>https://2024.nwerc.eu/news/nwerc-data/</link><pubDate>Sun, 24 Mar 2024 00:00:00 +0200</pubDate><guid>https://2024.nwerc.eu/news/nwerc-data/</guid><description>&lt;p>We are happy to announce that the 2024 edition of the Northwestern Europe Regional Contest (NWERC) will be held from the
+22nd until the 24th of November. The contest will be hosted this year again by the Delft University of Technology. We are
+looking forward to welcoming 70 teams to compete for slots for the 2024 ICPC World Finals. More information will be
+published in the coming months on this website.&lt;/p></description></item><item><title>Activities</title><link>https://2024.nwerc.eu/schedule/activities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/activities/</guid><description>&lt;h2 id="nwerc-activities">NWERC activities&lt;/h2>
+&lt;p>The following NWERC excursions are available for Saturday, November 23. Each activity has limited capacity, so &lt;strong>full = full&lt;/strong>. You must &lt;strong>wear your badge&lt;/strong> to gain entrance to each venue.&lt;/p>
+&lt;p>All activities take place between 15:00 and 18:00, though museums listed below &lt;strong>close at 17:00&lt;/strong>.&lt;/p>
+&lt;p>Please note that these excursions are &lt;strong>self-guided&lt;/strong>, allowing you to visit your chosen activity at your own pace. All activities are within a 30-minute walking distance of the contest site. Dinner is served in the Speeches hall from 18:00 until 20:00, so be sure to come by on time after your activity.&lt;/p></description></item><item><title>BAPC coach meeting</title><link>https://2024.nwerc.eu/schedule/coach_meeting_bapc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/coach_meeting_bapc/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The BAPC coach meeting takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+Meeting room 1 is located on the second floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Coach seminar</title><link>https://2024.nwerc.eu/schedule/seminar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/seminar/</guid><description>&lt;p>The coach seminar will give an update on the latest developments and backgrounds on the World Finals 2023 and 2024, the
+European Championships and the growth of NWERC in the future. These points can be discussed further during the
+subregional and general coach meetings.&lt;/p>
+&lt;p>The coach spectator room is on the first floor and can also be used to work in silence.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The Coach seminar takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The coaches hall is located on the second floor.&lt;/p></description></item><item><title>Dinner</title><link>https://2024.nwerc.eu/schedule/dinner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/dinner/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The dinner will be held in the Speeches hall.&lt;/p></description></item><item><title>GCPC coach meeting</title><link>https://2024.nwerc.eu/schedule/coach_meeting_gcpc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/coach_meeting_gcpc/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The GCPC coach meeting takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+Meeting room 1 is located on the second floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>General coach meeting</title><link>https://2024.nwerc.eu/schedule/coach_meeting_general/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/coach_meeting_general/</guid><description>&lt;p>During this meeting, the coaches will discuss future plans for the NWERC. Bids may be presented to host the NWERC in 2027 and later.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The general coach meeting takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The coaches room is located on the second floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Last info speech</title><link>https://2024.nwerc.eu/schedule/last_info_speech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/last_info_speech/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The last info speech takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Late registration &amp; Walk in</title><link>https://2024.nwerc.eu/schedule/late_registration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/late_registration/</guid><description>&lt;p>Please &lt;a href="https://2024.nwerc.eu/contact/" title="Contact">contact&lt;/a> us if you want to use late registration.&lt;/p>
+&lt;p>During registration all team members and on-site coaches need to register. You will receive your badge, T-shirt and goodie bag. Also, a team picture will be taken.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The registration takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>NCPC coach meeting</title><link>https://2024.nwerc.eu/schedule/coach_meeting_ncpc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/coach_meeting_ncpc/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The NCPC coach meeting takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+Meeting room 2 is located on the second floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Opening ceremony</title><link>https://2024.nwerc.eu/schedule/welcome_speech/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/welcome_speech/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The opening ceremony takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Q&amp;A test session</title><link>https://2024.nwerc.eu/schedule/q_a_testsession/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/q_a_testsession/</guid><description>&lt;p>This Q&amp;amp;A is your chance to ask your last questions to the people of the jury and the systems.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The Q&amp;amp;A test session takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Registration</title><link>https://2024.nwerc.eu/schedule/registration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/registration/</guid><description>&lt;p>During registration all team members and on-site coaches need to register. You will receive your badge, T-shirt and goodie bag. Also, a team picture will be taken.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The registration takes place in &lt;a href="https://map.tudelftcampus.nl/poi/elektrotechniek-wiskunde-en-informatica-ewi/">Faculty EEMCS&lt;/a>.
+This is the tall red/blue building.&lt;/p>
+&lt;p>The registration is held in the Back/ (Backslash) in the basement of the Faculty EEMCS.
+Follow the signs, or use the following directions.
+When entering the building, walk towards the elevators and take the stairs down on the right hand side.
+At the bottom of the stairs go right through two red sliding doors.
+Walk forward through the bicycle parking and go right at the second intersection, which is behind the green cage.
+If you see the ramp up, you have gone too far and should have followed the signs.&lt;/p></description></item><item><title>Solutions and award ceremony</title><link>https://2024.nwerc.eu/schedule/solutions_presentation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/solutions_presentation/</guid><description>&lt;p>Here, the jury will present the solutions to the problems.
+After this, the frozen part of the scoreboard is revealed and the winners are announced!&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The Solutions and awards ceremony takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Tech talk: Huawei</title><link>https://2024.nwerc.eu/schedule/techtalk_huawei/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/techtalk_huawei/</guid><description>&lt;p>&lt;strong>Speaker:&lt;/strong> Axel Gronland - 5.5G ISAC AI Specialist&lt;/p>
+&lt;p>&lt;strong>Topic:&lt;/strong> Integrated Communication and Sensing&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The tech talk takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Tech talk: Jetbrains</title><link>https://2024.nwerc.eu/schedule/techtalk_jetbrains/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/techtalk_jetbrains/</guid><description>&lt;p>&lt;strong>Speaker:&lt;/strong> Pavel Mavrin&lt;/p>
+&lt;p>&lt;strong>Topic:&lt;/strong> Talks with a World Champion&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The tech talk takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Tech talk: Jump Trading</title><link>https://2024.nwerc.eu/schedule/techtalk_jump_trading/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/techtalk_jump_trading/</guid><description>&lt;p>&lt;strong>Speaker:&lt;/strong> Federico Stazi (Software Engineer)&lt;/p>
+&lt;p>&lt;strong>Topic:&lt;/strong> Introduction to Quant Finance&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The tech talk takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+The speeches hall is located on the ground floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Test session</title><link>https://2024.nwerc.eu/schedule/test_session/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/test_session/</guid><description>&lt;p>During the test session, the contestants will have a chance to test their workstation, and all the software they want to use.&lt;/p>
+&lt;p>The contest halls are located on the ground floor.&lt;/p></description></item><item><title>UKIEPC coach meeting</title><link>https://2024.nwerc.eu/schedule/coach_meeting_ukiepc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/coach_meeting_ukiepc/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>The UKIEPC coach meeting takes place in &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a>.
+Meeting room 2 is located on the second floor.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item><item><title>Walk in</title><link>https://2024.nwerc.eu/schedule/walk_in/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://2024.nwerc.eu/schedule/walk_in/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;p>On Sunday, you can enter &lt;a href="https://map.tudelftcampus.nl/poi/education-building-35/">Education Building 35&lt;/a> from 8:30.&lt;/p>
+&lt;p>For directions, see the &lt;a href="https://2024.nwerc.eu/location/" title="Location">Location page&lt;/a>.&lt;/p></description></item></channel></rss>

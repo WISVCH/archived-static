@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nwerc 2023 on NWERC 2023</title>
+    <link>https://2023.nwerc.eu/tags/nwerc-2023/</link>
+    <description>Recent content in nwerc 2023 on NWERC 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>W.I.S.V. &lsquo;Christiaan Huygens&#39;</copyright>
+    <lastBuildDate>Wed, 22 Nov 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://2023.nwerc.eu/tags/nwerc-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last Information</title>
+      <link>https://2023.nwerc.eu/news/last-information/</link>
+      <pubDate>Wed, 22 Nov 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://2023.nwerc.eu/news/last-information/</guid>
+      <description>The 2023 ICPC Northwestern Europe Regional Contest will take place this weekend, and we hope that you and your team are prepared for this great event. Please check for the latest system information and the schedule.
+We want to remind you of the following:
+The contest machines will be laptops, we do not provide you with an external keyboard. It is allowed to bring your own keyboard (only one per team, only simple USB keyboards allowed).</description>
+    </item>
+    
+    <item>
+      <title>Online Spectator Contest</title>
+      <link>https://2023.nwerc.eu/news/spectator-announcement/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://2023.nwerc.eu/news/spectator-announcement/</guid>
+      <description>There will be an online spectator contest again this year. The contest will start at 10:30 CET on Sunday (November 26th, 2023). This is half an hour later than the start of the real contest.
+You can register at https://spectator.nwerc.eu/.</description>
+    </item>
+    
+    <item>
+      <title>Announcing the NWERC 2023 date</title>
+      <link>https://2023.nwerc.eu/news/nwerc-data/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://2023.nwerc.eu/news/nwerc-data/</guid>
+      <description>We are happy to announce that the 2023 edition of the Northwestern Europe Regional Contest (NWERC) will be held from the 24th until the 26th of November. The contest will be hosted this year again by the Delft University of Technology. We are looking forward to welcoming 140 teams to compete for slots for the 2024 ICPC World Finals. More information will be published in the coming months on this website.</description>
+    </item>
+    
+  </channel>
+</rss>
